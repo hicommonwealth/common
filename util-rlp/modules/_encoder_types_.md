@@ -12,7 +12,7 @@
 
 Ƭ **EncodeFunc**: *function*
 
-*Defined in [encoder/types.ts:6](https://github.com/polkadot-js/common/blob/6c79462/packages/util-rlp/src/encoder/types.ts#L6)*
+*Defined in [encoder/types.ts:6](https://github.com/polkadot-js/common/blob/f13810d/packages/util-rlp/src/encoder/types.ts#L6)*
 
 #### Type declaration:
 
