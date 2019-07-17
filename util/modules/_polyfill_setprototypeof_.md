@@ -1,0 +1,1 @@
+> # External module: "polyfill/setPrototypeOf"
