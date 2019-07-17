@@ -12,7 +12,7 @@
 
 ▸ **naclKeypairFromRandom**(): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [nacl/keypair/fromRandom.ts:23](https://github.com/polkadot-js/common/blob/332620d/packages/util-crypto/src/nacl/keypair/fromRandom.ts#L23)*
+*Defined in [nacl/keypair/fromRandom.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/nacl/keypair/fromRandom.ts#L23)*
 
 **`name`** naclKeypairFromRandom
 

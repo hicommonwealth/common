@@ -1,5 +1,6 @@
 * [Globals](globals.md)
 * [External Modules]()
+  * [address/check](modules/_address_check_.md)
   * [address/decode](modules/_address_decode_.md)
   * [address/defaults](modules/_address_defaults_.md)
   * [address/encode](modules/_address_encode_.md)
