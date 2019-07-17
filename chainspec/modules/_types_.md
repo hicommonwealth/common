@@ -16,4 +16,4 @@
 
 Ƭ **Telemetry**: *[string, number]*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/common/blob/f13810d/packages/chainspec/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/common/blob/332620d/packages/chainspec/src/types.ts#L5)*
