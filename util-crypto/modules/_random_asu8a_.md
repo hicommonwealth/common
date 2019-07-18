@@ -1,8 +1,8 @@
 > # External module: "random/asU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [randomAsU8a](_random_asu8a_.md#randomasu8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **randomAsU8a**(`length`: number): *`Uint8Array`*
 
-*Defined in [random/asU8a.ts:21](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/random/asU8a.ts#L21)*
+*Defined in [random/asU8a.ts:21](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/random/asU8a.ts#L21)*
 
 **`name`** randomAsU8a
 

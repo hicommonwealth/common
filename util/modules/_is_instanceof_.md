@@ -1,8 +1,8 @@
 > # External module: "is/instanceOf"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isInstanceOf](_is_instanceof_.md#isinstanceof)
 
@@ -12,7 +12,7 @@
 
 ▸ **isInstanceOf**(`value`: any, `clazz`: any): *boolean*
 
-*Defined in [is/instanceOf.ts:20](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/instanceOf.ts#L20)*
+*Defined in [is/instanceOf.ts:20](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/instanceOf.ts#L20)*
 
 **`name`** isInstanceOf
 

@@ -1,8 +1,8 @@
 > # External module: "nacl/keypair/fromString"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [naclKeypairFromString](_nacl_keypair_fromstring_.md#naclkeypairfromstring)
 
@@ -12,7 +12,7 @@
 
 ▸ **naclKeypairFromString**(`value`: string): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [nacl/keypair/fromString.ts:26](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/nacl/keypair/fromString.ts#L26)*
+*Defined in [nacl/keypair/fromString.ts:26](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/nacl/keypair/fromString.ts#L26)*
 
 **`name`** naclKeypairFromString
 

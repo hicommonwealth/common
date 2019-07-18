@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["decode"](modules/_decode_.md)
 * ["decoder/decode"](modules/_decoder_decode_.md)

@@ -1,8 +1,8 @@
 > # External module: "stream/endBranch"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [encBranch](_stream_endbranch_.md#encbranch)
 
@@ -12,7 +12,7 @@
 
 ▸ **encBranch**(`value`: `Uint8Array` | null): *`Uint8Array`*
 
-*Defined in [stream/endBranch.ts:8](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-codec/src/stream/endBranch.ts#L8)*
+*Defined in [stream/endBranch.ts:8](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/stream/endBranch.ts#L8)*
 
 **Parameters:**
 

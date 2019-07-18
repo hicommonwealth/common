@@ -1,8 +1,8 @@
 > # External module: "is/error"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isError](_is_error_.md#iserror)
 
@@ -12,7 +12,7 @@
 
 ▸ **isError**(`value`: any): *boolean*
 
-*Defined in [is/error.ts:22](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/error.ts#L22)*
+*Defined in [is/error.ts:22](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/error.ts#L22)*
 
 **`name`** isError
 

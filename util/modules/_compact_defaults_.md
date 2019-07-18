@@ -1,8 +1,8 @@
 > # External module: "compact/defaults"
 
-### Index
+## Index
 
-#### Variables
+### Variables
 
 * [DEFAULT_BITLENGTH](_compact_defaults_.md#const-default_bitlength)
 
@@ -12,4 +12,4 @@
 
 • **DEFAULT_BITLENGTH**: *[BitLength](_compact_types_.md#bitlength)* = 32
 
-*Defined in [compact/defaults.ts:7](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/compact/defaults.ts#L7)*
+*Defined in [compact/defaults.ts:7](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/compact/defaults.ts#L7)*

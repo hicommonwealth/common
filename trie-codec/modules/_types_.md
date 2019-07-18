@@ -1,7 +1,7 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [Codec](../interfaces/_types_.codec.md)

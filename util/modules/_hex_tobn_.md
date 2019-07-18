@@ -1,8 +1,8 @@
 > # External module: "hex/toBn"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [hexToBn](_hex_tobn_.md#hextobn)
 
@@ -12,7 +12,7 @@
 
 ▸ **hexToBn**(`value?`: string | number | null, `options`: [ToBnOptions](../interfaces/_types_.tobnoptions.md) | boolean): *`BN`*
 
-*Defined in [hex/toBn.ts:35](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/hex/toBn.ts#L35)*
+*Defined in [hex/toBn.ts:35](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/hex/toBn.ts#L35)*
 
 **`name`** hexToBn
 

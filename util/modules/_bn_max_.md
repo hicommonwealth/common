@@ -1,8 +1,8 @@
 > # External module: "bn/max"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [max](_bn_max_.md#max)
 
@@ -12,7 +12,7 @@
 
 ▸ **max**(...`items`: `BN`[]): *`BN`*
 
-*Defined in [bn/max.ts:22](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/bn/max.ts#L22)*
+*Defined in [bn/max.ts:22](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/bn/max.ts#L22)*
 
 **`name`** max
 

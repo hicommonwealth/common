@@ -1,13 +1,13 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [Keypair](../interfaces/_types_.keypair.md)
 * [Seedpair](../interfaces/_types_.seedpair.md)
 
-#### Type aliases
+### Type aliases
 
 * [KeypairType](_types_.md#keypairtype)
 
@@ -17,4 +17,4 @@
 
 Ƭ **KeypairType**: *"ed25519" | "sr25519"*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/types.ts#L15)*
+*Defined in [types.ts:15](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/types.ts#L15)*

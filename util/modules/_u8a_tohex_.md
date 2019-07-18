@@ -1,8 +1,8 @@
 > # External module: "u8a/toHex"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [u8aToHex](_u8a_tohex_.md#u8atohex)
 
@@ -12,7 +12,7 @@
 
 ▸ **u8aToHex**(`value?`: `Uint8Array` | null, `bitLength`: number, `isPrefixed`: boolean): *string*
 
-*Defined in [u8a/toHex.ts:21](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/u8a/toHex.ts#L21)*
+*Defined in [u8a/toHex.ts:21](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/u8a/toHex.ts#L21)*
 
 **`name`** u8aToHex
 

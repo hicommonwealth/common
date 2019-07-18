@@ -6,9 +6,9 @@
 
   * [Impl](_impl_.impl.md)
 
-### Index
+## Index
 
-#### Constructors
+### Constructors
 
 * [constructor](_checkpoint_.checkpoint.md#constructor)
 
@@ -18,7 +18,7 @@
 
 \+ **new Checkpoint**(`rootHash`: `Uint8Array`): *[Checkpoint](_checkpoint_.checkpoint.md)*
 
-*Defined in [Checkpoint.ts:8](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-db/src/Checkpoint.ts#L8)*
+*Defined in [Checkpoint.ts:8](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-db/src/Checkpoint.ts#L8)*
 
 **Parameters:**
 

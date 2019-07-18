@@ -1,8 +1,8 @@
 > # External module: "keccak/asU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [keccakAsU8a](_keccak_asu8a_.md#keccakasu8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **keccakAsU8a**(`value`: `Buffer` | `Uint8Array` | string): *`Uint8Array`*
 
-*Defined in [keccak/asU8a.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/keccak/asU8a.ts#L23)*
+*Defined in [keccak/asU8a.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/keccak/asU8a.ts#L23)*
 
 **`name`** keccakAsU8a
 

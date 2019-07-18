@@ -1,8 +1,8 @@
 > # External module: "is/number"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isNumber](_is_number_.md#isnumber)
 
@@ -12,7 +12,7 @@
 
 ▸ **isNumber**(`value`: any): *boolean*
 
-*Defined in [is/number.ts:20](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/number.ts#L20)*
+*Defined in [is/number.ts:20](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/number.ts#L20)*
 
 **`name`** isNumber
 

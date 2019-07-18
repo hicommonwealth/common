@@ -1,7 +1,7 @@
 > # External module: "pair/types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [PairInfo](../interfaces/_pair_types_.pairinfo.md)

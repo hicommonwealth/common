@@ -1,8 +1,8 @@
 > # External module: "util/fromNibbles"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [fromNibbles](_util_fromnibbles_.md#fromnibbles)
 
@@ -12,7 +12,7 @@
 
 ▸ **fromNibbles**(`input`: `Uint8Array`): *`Uint8Array`*
 
-*Defined in [util/fromNibbles.ts:19](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-codec/src/util/fromNibbles.ts#L19)*
+*Defined in [util/fromNibbles.ts:19](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/util/fromNibbles.ts#L19)*
 
 **`name`** fromNibbles
 

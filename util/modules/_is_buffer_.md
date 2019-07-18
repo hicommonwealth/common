@@ -1,8 +1,8 @@
 > # External module: "is/buffer"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isBuffer](_is_buffer_.md#isbuffer)
 
@@ -12,7 +12,7 @@
 
 ▸ **isBuffer**(`value`: any): *boolean*
 
-*Defined in [is/buffer.ts:22](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/buffer.ts#L22)*
+*Defined in [is/buffer.ts:22](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/buffer.ts#L22)*
 
 **`name`** isBuffer
 

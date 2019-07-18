@@ -1,8 +1,8 @@
 > # External module: "random/asHex"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [randomAsHex](_random_ashex_.md#randomashex)
 
@@ -12,7 +12,7 @@
 
 ▸ **randomAsHex**(`length`: number): *string*
 
-*Defined in [random/asHex.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/random/asHex.ts#L23)*
+*Defined in [random/asHex.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/random/asHex.ts#L23)*
 
 **`name`** randomAsHex
 

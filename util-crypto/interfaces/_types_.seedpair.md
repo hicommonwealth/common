@@ -4,9 +4,9 @@
 
 * **Seedpair**
 
-### Index
+## Index
 
-#### Properties
+### Properties
 
 * [publicKey](_types_.seedpair.md#publickey)
 * [seed](_types_.seedpair.md#seed)
@@ -17,7 +17,7 @@
 
 • **publicKey**: *`Uint8Array`*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/types.ts#L11)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 • **seed**: *`Uint8Array`*
 
-*Defined in [types.ts:12](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/types.ts#L12)*
+*Defined in [types.ts:12](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/types.ts#L12)*

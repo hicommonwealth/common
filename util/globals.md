@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["array/filter"](modules/_array_filter_.md)
 * ["assert"](modules/_assert_.md)

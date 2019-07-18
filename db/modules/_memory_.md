@@ -1,7 +1,7 @@
 > # External module: "Memory"
 
-### Index
+## Index
 
-#### Classes
+### Classes
 
 * [Memory](../classes/_memory_.memory.md)

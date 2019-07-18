@@ -1,8 +1,8 @@
 > # External module: "is/u8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isU8a](_is_u8a_.md#isu8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **isU8a**(`value?`: any): *boolean*
 
-*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/u8a.ts#L22)*
+*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/u8a.ts#L22)*
 
 **`name`** isU8a
 

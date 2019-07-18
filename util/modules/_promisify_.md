@@ -1,12 +1,12 @@
 > # External module: "promisify"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [PromisifyFn](../interfaces/_promisify_.promisifyfn.md)
 
-#### Functions
+### Functions
 
 * [promisify](_promisify_.md#promisify)
 
@@ -16,7 +16,7 @@
 
 ▸ **promisify**(`self`: any, `fn`: [PromisifyFn](../interfaces/_promisify_.promisifyfn.md), ...`params`: `ParamType`): *`Promise<any>`*
 
-*Defined in [promisify.ts:35](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/promisify.ts#L35)*
+*Defined in [promisify.ts:35](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/promisify.ts#L35)*
 
 **`name`** promisify
 

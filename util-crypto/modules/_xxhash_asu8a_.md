@@ -1,8 +1,8 @@
 > # External module: "xxhash/asU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [xxhashAsU8a](_xxhash_asu8a_.md#xxhashasu8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **xxhashAsU8a**(`data`: `Buffer` | `Uint8Array` | string, `bitLength`: number): *`Uint8Array`*
 
-*Defined in [xxhash/asU8a.ts:24](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/xxhash/asU8a.ts#L24)*
+*Defined in [xxhash/asU8a.ts:24](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/xxhash/asU8a.ts#L24)*
 
 **`name`** xxhashAsU8a
 

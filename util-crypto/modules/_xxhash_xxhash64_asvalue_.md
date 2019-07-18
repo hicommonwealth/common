@@ -1,8 +1,8 @@
 > # External module: "xxhash/xxhash64/asValue"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [xxhash64AsValue](_xxhash_xxhash64_asvalue_.md#xxhash64asvalue)
 
@@ -12,7 +12,7 @@
 
 ▸ **xxhash64AsValue**(`data`: `Buffer` | `Uint8Array` | string, `seed`: number): *number*
 
-*Defined in [xxhash/xxhash64/asValue.ts:22](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/xxhash/xxhash64/asValue.ts#L22)*
+*Defined in [xxhash/xxhash64/asValue.ts:22](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/xxhash/xxhash64/asValue.ts#L22)*
 
 **`name`** xxhash64AsValue
 

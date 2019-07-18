@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["alexander"](modules/_alexander_.md)
 * ["dried-danta"](modules/_dried_danta_.md)

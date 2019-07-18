@@ -1,12 +1,12 @@
 > # External module: "testingPairs"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [TestKeyringMap](../interfaces/_testingpairs_.testkeyringmap.md)
 
-#### Functions
+### Functions
 
 * [testKeyringPairs](_testingpairs_.md#testkeyringpairs)
 
@@ -16,7 +16,7 @@
 
 ▸ **testKeyringPairs**(`options?`: [KeyringOptions](../interfaces/_types_.keyringoptions.md), `isDerived`: boolean): *[TestKeyringMap](../interfaces/_testingpairs_.testkeyringmap.md)*
 
-*Defined in [testingPairs.ts:14](https://github.com/polkadot-js/common/blob/df8c103/packages/keyring/src/testingPairs.ts#L14)*
+*Defined in [testingPairs.ts:14](https://github.com/polkadot-js/common/blob/cd7aafc/packages/keyring/src/testingPairs.ts#L14)*
 
 **Parameters:**
 

@@ -1,14 +1,14 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [ExtErrorInterface](../interfaces/_types_.exterrorinterface.md)
 * [Logger](../interfaces/_types_.logger.md)
 * [ToBnOptions](../interfaces/_types_.tobnoptions.md)
 
-#### Type aliases
+### Type aliases
 
 * [BnList](_types_.md#bnlist)
 * [Logger$Data](_types_.md#logger$data)
@@ -19,7 +19,7 @@
 
 Ƭ **BnList**: *object & `BN`[]*
 
-*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/types.ts#L32)*
+*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/types.ts#L32)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 Ƭ **Logger$Data**: *any[]*
 
-*Defined in [types.ts:17](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/types.ts#L17)*
+*Defined in [types.ts:17](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/types.ts#L17)*

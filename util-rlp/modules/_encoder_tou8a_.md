@@ -1,8 +1,8 @@
 > # External module: "encoder/toU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [toU8a](_encoder_tou8a_.md#tou8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **toU8a**(`value?`: any): *`Uint8Array`*
 
-*Defined in [encoder/toU8a.ts:43](https://github.com/polkadot-js/common/blob/df8c103/packages/util-rlp/src/encoder/toU8a.ts#L43)*
+*Defined in [encoder/toU8a.ts:43](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-rlp/src/encoder/toU8a.ts#L43)*
 
 **Parameters:**
 

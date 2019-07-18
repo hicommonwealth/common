@@ -1,8 +1,8 @@
 > # External module: "number/toU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [numberToU8a](_number_tou8a_.md#numbertou8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **numberToU8a**(`value?`: number | null, `bitLength`: number): *`Uint8Array`*
 
-*Defined in [number/toU8a.ts:22](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/number/toU8a.ts#L22)*
+*Defined in [number/toU8a.ts:22](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/number/toU8a.ts#L22)*
 
 **`name`** numberToU8a
 

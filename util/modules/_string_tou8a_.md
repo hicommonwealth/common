@@ -1,8 +1,8 @@
 > # External module: "string/toU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [stringToU8a](_string_tou8a_.md#stringtou8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **stringToU8a**(`value?`: undefined | string): *`Uint8Array`*
 
-*Defined in [string/toU8a.ts:39](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/string/toU8a.ts#L39)*
+*Defined in [string/toU8a.ts:39](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/string/toU8a.ts#L39)*
 
 **`name`** stringToU8a
 

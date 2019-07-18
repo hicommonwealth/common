@@ -1,12 +1,12 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [Chainspec](../interfaces/_types_.chainspec.md)
 
-#### Type aliases
+### Type aliases
 
 * [Telemetry](_types_.md#telemetry)
 
@@ -16,4 +16,4 @@
 
 Ƭ **Telemetry**: *[string, number]*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/common/blob/df8c103/packages/chainspec/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/common/blob/cd7aafc/packages/chainspec/src/types.ts#L5)*

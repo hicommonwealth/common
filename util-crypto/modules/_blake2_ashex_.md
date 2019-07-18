@@ -1,8 +1,8 @@
 > # External module: "blake2/asHex"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [blake2AsHex](_blake2_ashex_.md#blake2ashex)
 
@@ -12,7 +12,7 @@
 
 ▸ **blake2AsHex**(`data`: `Uint8Array` | string, `bitLength`: number): *string*
 
-*Defined in [blake2/asHex.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/blake2/asHex.ts#L23)*
+*Defined in [blake2/asHex.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/blake2/asHex.ts#L23)*
 
 **`name`** blake2AsHex
 

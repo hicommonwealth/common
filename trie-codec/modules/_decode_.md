@@ -1,8 +1,8 @@
 > # External module: "decode"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [decode](_decode_.md#decode)
 
@@ -12,7 +12,7 @@
 
 ▸ **decode**(`input`: null | `Uint8Array`): *`Uint8Array` | null | null | `Uint8Array` | [`Uint8Array`, `Uint8Array`][]*
 
-*Defined in [decode.ts:76](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-codec/src/decode.ts#L76)*
+*Defined in [decode.ts:76](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/decode.ts#L76)*
 
 **Parameters:**
 

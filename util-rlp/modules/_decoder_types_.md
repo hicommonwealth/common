@@ -1,12 +1,12 @@
 > # External module: "decoder/types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)
 
-#### Type aliases
+### Type aliases
 
 * [DecodeFunc](_decoder_types_.md#decodefunc)
 
@@ -16,7 +16,7 @@
 
 Ƭ **DecodeFunc**: *function*
 
-*Defined in [decoder/types.ts:10](https://github.com/polkadot-js/common/blob/df8c103/packages/util-rlp/src/decoder/types.ts#L10)*
+*Defined in [decoder/types.ts:10](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-rlp/src/decoder/types.ts#L10)*
 
 #### Type declaration:
 

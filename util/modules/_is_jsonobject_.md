@@ -1,8 +1,8 @@
 > # External module: "is/jsonObject"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isJsonObject](_is_jsonobject_.md#isjsonobject)
 
@@ -12,7 +12,7 @@
 
 ▸ **isJsonObject**(`value`: any): *boolean*
 
-*Defined in [is/jsonObject.ts:36](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/jsonObject.ts#L36)*
+*Defined in [is/jsonObject.ts:36](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/jsonObject.ts#L36)*
 
 **`name`** isJsonObject
 

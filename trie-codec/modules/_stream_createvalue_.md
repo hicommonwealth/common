@@ -1,8 +1,8 @@
 > # External module: "stream/createValue"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [createValue](_stream_createvalue_.md#createvalue)
 
@@ -12,7 +12,7 @@
 
 ▸ **createValue**(`value`: null | `Uint8Array`): *`Uint8Array`*
 
-*Defined in [stream/createValue.ts:9](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-codec/src/stream/createValue.ts#L9)*
+*Defined in [stream/createValue.ts:9](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/stream/createValue.ts#L9)*
 
 **Parameters:**
 

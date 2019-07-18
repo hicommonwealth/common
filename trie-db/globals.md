@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["Checkpoint"](modules/_checkpoint_.md)
 * ["Impl"](modules/_impl_.md)

@@ -1,8 +1,8 @@
 > # External module: "is/testChain"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isTestChain](_is_testchain_.md#istestchain)
 
@@ -12,7 +12,7 @@
 
 ▸ **isTestChain**(`chain?`: string | null): *boolean*
 
-*Defined in [is/testChain.ts:7](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/testChain.ts#L7)*
+*Defined in [is/testChain.ts:7](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/testChain.ts#L7)*
 
 **Parameters:**
 

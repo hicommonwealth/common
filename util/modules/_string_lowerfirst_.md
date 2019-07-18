@@ -1,8 +1,8 @@
 > # External module: "string/lowerFirst"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [stringLowerFirst](_string_lowerfirst_.md#stringlowerfirst)
 
@@ -12,7 +12,7 @@
 
 ▸ **stringLowerFirst**(`value?`: string | null): *string*
 
-*Defined in [string/lowerFirst.ts:19](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/string/lowerFirst.ts#L19)*
+*Defined in [string/lowerFirst.ts:19](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/string/lowerFirst.ts#L19)*
 
 **`name`** stringLowerFirst
 

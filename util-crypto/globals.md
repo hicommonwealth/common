@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["address/check"](modules/_address_check_.md)
 * ["address/decode"](modules/_address_decode_.md)

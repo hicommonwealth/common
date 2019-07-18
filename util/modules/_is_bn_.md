@@ -1,8 +1,8 @@
 > # External module: "is/bn"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isBn](_is_bn_.md#isbn)
 
@@ -12,7 +12,7 @@
 
 ▸ **isBn**(`value`: any): *boolean*
 
-*Defined in [is/bn.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/bn.ts#L23)*
+*Defined in [is/bn.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/bn.ts#L23)*
 
 **`name`** isBn
 

@@ -1,7 +1,7 @@
 > # External module: "pairs"
 
-### Index
+## Index
 
-#### Classes
+### Classes
 
 * [Pairs](../classes/_pairs_.pairs.md)

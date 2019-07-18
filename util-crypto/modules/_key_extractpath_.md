@@ -1,12 +1,12 @@
 > # External module: "key/extractPath"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [ExtractResult](../interfaces/_key_extractpath_.extractresult.md)
 
-#### Functions
+### Functions
 
 * [keyExtractPath](_key_extractpath_.md#keyextractpath)
 
@@ -16,7 +16,7 @@
 
 ▸ **keyExtractPath**(`derivePath`: string): *[ExtractResult](../interfaces/_key_extractpath_.extractresult.md)*
 
-*Defined in [key/extractPath.ts:18](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/key/extractPath.ts#L18)*
+*Defined in [key/extractPath.ts:18](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/key/extractPath.ts#L18)*
 
 **`description`** Extract derivation juntions from the supplied path
 

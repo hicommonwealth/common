@@ -1,8 +1,8 @@
 > # External module: "util/toNibbles"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [toNibbles](_util_tonibbles_.md#tonibbles)
 
@@ -12,7 +12,7 @@
 
 ▸ **toNibbles**(`input?`: `Uint8Array` | null): *`Uint8Array`*
 
-*Defined in [util/toNibbles.ts:19](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-codec/src/util/toNibbles.ts#L19)*
+*Defined in [util/toNibbles.ts:19](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/util/toNibbles.ts#L19)*
 
 **`name`** toNibbles
 

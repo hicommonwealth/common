@@ -1,8 +1,8 @@
 > # External module: "nacl/verify"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [naclVerify](_nacl_verify_.md#naclverify)
 
@@ -12,7 +12,7 @@
 
 ▸ **naclVerify**(`message`: `Uint8Array` | string, `signature`: `Uint8Array` | string, `publicKey`: `Uint8Array` | string): *boolean*
 
-*Defined in [nacl/verify.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/nacl/verify.ts#L23)*
+*Defined in [nacl/verify.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/nacl/verify.ts#L23)*
 
 **`name`** naclSign
 

@@ -1,8 +1,8 @@
 > # External module: "hex/hasPrefix"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [hexHasPrefix](_hex_hasprefix_.md#hexhasprefix)
 
@@ -12,7 +12,7 @@
 
 ▸ **hexHasPrefix**(`value?`: string | null): *boolean*
 
-*Defined in [hex/hasPrefix.ts:21](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/hex/hasPrefix.ts#L21)*
+*Defined in [hex/hasPrefix.ts:21](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/hex/hasPrefix.ts#L21)*
 
 **`name`** hexHasPrefix
 

@@ -4,9 +4,9 @@
 
 * **ExtractResult**
 
-### Index
+## Index
 
-#### Properties
+### Properties
 
 * [parts](_key_extractpath_.extractresult.md#parts)
 * [path](_key_extractpath_.extractresult.md#path)
@@ -17,7 +17,7 @@
 
 • **parts**: *null | string[]*
 
-*Defined in [key/extractPath.ts:11](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/key/extractPath.ts#L11)*
+*Defined in [key/extractPath.ts:11](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/key/extractPath.ts#L11)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 • **path**: *[DeriveJunction](../classes/_key_derivejunction_.derivejunction.md)[]*
 
-*Defined in [key/extractPath.ts:12](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/key/extractPath.ts#L12)*
+*Defined in [key/extractPath.ts:12](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/key/extractPath.ts#L12)*

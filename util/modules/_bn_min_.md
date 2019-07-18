@@ -1,8 +1,8 @@
 > # External module: "bn/min"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [min](_bn_min_.md#min)
 
@@ -12,7 +12,7 @@
 
 ▸ **min**(...`items`: `BN`[]): *`BN`*
 
-*Defined in [bn/min.ts:22](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/bn/min.ts#L22)*
+*Defined in [bn/min.ts:22](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/bn/min.ts#L22)*
 
 **`name`** min
 

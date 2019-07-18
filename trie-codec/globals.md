@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["NodeHeader"](modules/_nodeheader_.md)
 * ["constants"](modules/_constants_.md)

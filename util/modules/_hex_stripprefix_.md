@@ -1,8 +1,8 @@
 > # External module: "hex/stripPrefix"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [hexStripPrefix](_hex_stripprefix_.md#hexstripprefix)
 
@@ -12,7 +12,7 @@
 
 ▸ **hexStripPrefix**(`value?`: string | null): *string*
 
-*Defined in [hex/stripPrefix.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/hex/stripPrefix.ts#L23)*
+*Defined in [hex/stripPrefix.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/hex/stripPrefix.ts#L23)*
 
 **`name`** hexStripPrefix
 

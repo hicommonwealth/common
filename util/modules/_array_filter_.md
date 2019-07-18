@@ -1,8 +1,8 @@
 > # External module: "array/filter"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [arrayFilter](_array_filter_.md#arrayfilter)
 
@@ -12,7 +12,7 @@
 
 ▸ **arrayFilter**(`array`: any[], `allowNulls`: boolean): *any[]*
 
-*Defined in [array/filter.ts:24](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/array/filter.ts#L24)*
+*Defined in [array/filter.ts:24](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/array/filter.ts#L24)*
 
 **`name`** arrayFilter
 

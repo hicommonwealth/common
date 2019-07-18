@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["defaults"](modules/_defaults_.md)
 * ["keyring"](modules/_keyring_.md)

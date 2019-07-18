@@ -1,8 +1,8 @@
 > # External module: "hex/fixLength"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [hexFixLength](_hex_fixlength_.md#hexfixlength)
 
@@ -12,7 +12,7 @@
 
 ▸ **hexFixLength**(`value`: string, `bitLength`: number, `withPadding`: boolean): *string*
 
-*Defined in [hex/fixLength.ts:24](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/hex/fixLength.ts#L24)*
+*Defined in [hex/fixLength.ts:24](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/hex/fixLength.ts#L24)*
 
 **`name`** hexFixLength
 

@@ -1,8 +1,8 @@
 > # External module: "buffer/toU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [bufferToU8a](_buffer_tou8a_.md#buffertou8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **bufferToU8a**(`buffer?`: `Buffer` | number[] | null): *`Uint8Array`*
 
-*Defined in [buffer/toU8a.ts:19](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/buffer/toU8a.ts#L19)*
+*Defined in [buffer/toU8a.ts:19](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/buffer/toU8a.ts#L19)*
 
 **`name`** bufferToU8a
 

@@ -16,13 +16,13 @@
 
   * **Impl**
 
-### Index
+## Index
 
-#### Constructors
+### Constructors
 
 * [constructor](_impl_.impl.md#constructor)
 
-#### Properties
+### Properties
 
 * [db](_impl_.impl.md#db)
 
@@ -34,7 +34,7 @@
 
 *Overrides [Checkpoint](_checkpoint_.checkpoint.md).[constructor](_checkpoint_.checkpoint.md#constructor)*
 
-*Defined in [Impl.ts:43](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-db/src/Impl.ts#L43)*
+*Defined in [Impl.ts:43](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-db/src/Impl.ts#L43)*
 
 **Parameters:**
 
@@ -52,4 +52,4 @@ Name | Type | Default |
 
 • **db**: *`TxDb`*
 
-*Defined in [Impl.ts:39](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-db/src/Impl.ts#L39)*
+*Defined in [Impl.ts:39](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-db/src/Impl.ts#L39)*

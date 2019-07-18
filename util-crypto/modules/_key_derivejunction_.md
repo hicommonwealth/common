@@ -1,7 +1,7 @@
 > # External module: "key/DeriveJunction"
 
-### Index
+## Index
 
-#### Classes
+### Classes
 
 * [DeriveJunction](../classes/_key_derivejunction_.derivejunction.md)

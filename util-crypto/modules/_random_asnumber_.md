@@ -1,8 +1,8 @@
 > # External module: "random/asNumber"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [randomAsNumber](_random_asnumber_.md#randomasnumber)
 
@@ -12,7 +12,7 @@
 
 ▸ **randomAsNumber**(): *number*
 
-*Defined in [random/asNumber.ts:26](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/random/asNumber.ts#L26)*
+*Defined in [random/asNumber.ts:26](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/random/asNumber.ts#L26)*
 
 **`name`** randomAsNumber
 

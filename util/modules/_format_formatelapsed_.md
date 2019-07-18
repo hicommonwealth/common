@@ -1,8 +1,8 @@
 > # External module: "format/formatElapsed"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [formatElapsed](_format_formatelapsed_.md#formatelapsed)
 
@@ -12,7 +12,7 @@
 
 ▸ **formatElapsed**(`now?`: `Date` | null, `value?`: `BN` | [Compact](../interfaces/_format_types_.compact.md) | `Date` | number | null): *string*
 
-*Defined in [format/formatElapsed.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/format/formatElapsed.ts#L23)*
+*Defined in [format/formatElapsed.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/format/formatElapsed.ts#L23)*
 
 **Parameters:**
 

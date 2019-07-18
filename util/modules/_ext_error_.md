@@ -1,7 +1,7 @@
 > # External module: "ext/error"
 
-### Index
+## Index
 
-#### Classes
+### Classes
 
 * [ExtError](../classes/_ext_error_.exterror.md)

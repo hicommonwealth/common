@@ -1,8 +1,8 @@
 > # External module: "testing"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [testKeyring](_testing_.md#testkeyring)
 
@@ -12,7 +12,7 @@
 
 ▸ **testKeyring**(`options`: [KeyringOptions](../interfaces/_types_.keyringoptions.md), `isDerived`: boolean): *[KeyringInstance](../interfaces/_types_.keyringinstance.md)*
 
-*Defined in [testing.ts:80](https://github.com/polkadot-js/common/blob/df8c103/packages/keyring/src/testing.ts#L80)*
+*Defined in [testing.ts:80](https://github.com/polkadot-js/common/blob/cd7aafc/packages/keyring/src/testing.ts#L80)*
 
 **`name`** testKeyring
 

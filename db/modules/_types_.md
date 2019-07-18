@@ -1,15 +1,15 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [BaseDb](../interfaces/_types_.basedb.md)
 * [BaseDbOptions](../interfaces/_types_.basedboptions.md)
 * [ProgressValue](../interfaces/_types_.progressvalue.md)
 * [TxDb](../interfaces/_types_.txdb.md)
 
-#### Type aliases
+### Type aliases
 
 * [ProgressCb](_types_.md#progresscb)
 
@@ -19,7 +19,7 @@
 
 Ƭ **ProgressCb**: *function*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/df8c103/packages/db/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/types.ts#L11)*
 
 #### Type declaration:
 

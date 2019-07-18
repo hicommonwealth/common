@@ -1,8 +1,8 @@
 > # External module: "blake2/asU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [blake2AsU8a](_blake2_asu8a_.md#blake2asu8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **blake2AsU8a**(`data`: `Uint8Array` | string, `bitLength`: number, `key`: `Uint8Array` | null): *`Uint8Array`*
 
-*Defined in [blake2/asU8a.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/blake2/asU8a.ts#L23)*
+*Defined in [blake2/asU8a.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/blake2/asU8a.ts#L23)*
 
 **`name`** blake2AsU8a
 

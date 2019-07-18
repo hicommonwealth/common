@@ -1,8 +1,8 @@
 > # External module: "is/hex"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isHex](_is_hex_.md#ishex)
 
@@ -12,7 +12,7 @@
 
 ▸ **isHex**(`value`: any, `bitLength`: number, `ignoreLength`: boolean): *boolean*
 
-*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/hex.ts#L25)*
+*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/hex.ts#L25)*
 
 **`name`** isHex
 

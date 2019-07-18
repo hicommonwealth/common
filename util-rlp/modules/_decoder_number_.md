@@ -1,8 +1,8 @@
 > # External module: "decoder/number"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [decodeNumber](_decoder_number_.md#decodenumber)
 
@@ -12,7 +12,7 @@
 
 ▸ **decodeNumber**(`decode`: [DecodeFunc](_decoder_types_.md#decodefunc), `input`: `Uint8Array`): *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*
 
-*Defined in [decoder/number.ts:11](https://github.com/polkadot-js/common/blob/df8c103/packages/util-rlp/src/decoder/number.ts#L11)*
+*Defined in [decoder/number.ts:11](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-rlp/src/decoder/number.ts#L11)*
 
 **Parameters:**
 

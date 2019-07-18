@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["Memory"](modules/_memory_.md)
 * ["engines/LruDb"](modules/_engines_lrudb_.md)

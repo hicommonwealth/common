@@ -1,7 +1,7 @@
 > # External module: "format/types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [Compact](../interfaces/_format_types_.compact.md)

@@ -1,8 +1,8 @@
 > # External module: "is/ip"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isIp](_is_ip_.md#isip)
 
@@ -12,7 +12,7 @@
 
 ▸ **isIp**(`value`: string, `type?`: `IpTypes`): *boolean*
 
-*Defined in [is/ip.ts:26](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/ip.ts#L26)*
+*Defined in [is/ip.ts:26](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/ip.ts#L26)*
 
 **`name`** isIp
 

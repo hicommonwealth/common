@@ -1,12 +1,12 @@
 > # External module: "constants"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [Constants](../interfaces/_constants_.constants.md)
 
-#### Functions
+### Functions
 
 * [default](_constants_.md#default)
 
@@ -16,7 +16,7 @@
 
 ▸ **default**(`codec`: `Codec`): *[Constants](../interfaces/_constants_.constants.md)*
 
-*Defined in [constants.ts:14](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-db/src/constants.ts#L14)*
+*Defined in [constants.ts:14](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-db/src/constants.ts#L14)*
 
 **Parameters:**
 

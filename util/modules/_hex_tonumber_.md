@@ -1,8 +1,8 @@
 > # External module: "hex/toNumber"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [hexToNumber](_hex_tonumber_.md#hextonumber)
 
@@ -12,7 +12,7 @@
 
 ▸ **hexToNumber**(`value?`: string | null): *number*
 
-*Defined in [hex/toNumber.ts:21](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/hex/toNumber.ts#L21)*
+*Defined in [hex/toNumber.ts:21](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/hex/toNumber.ts#L21)*
 
 **`name`** hexToNumber
 

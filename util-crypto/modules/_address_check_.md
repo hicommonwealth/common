@@ -1,8 +1,8 @@
 > # External module: "address/check"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [check](_address_check_.md#check)
 
@@ -12,7 +12,7 @@
 
 ▸ **check**(`address`: string, `prefix`: [Prefix](_address_types_.md#prefix)): *[boolean, string | null]*
 
-*Defined in [address/check.ts:12](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/address/check.ts#L12)*
+*Defined in [address/check.ts:12](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/address/check.ts#L12)*
 
 **Parameters:**
 

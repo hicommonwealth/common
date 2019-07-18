@@ -1,8 +1,8 @@
 > # External module: "address/sshash"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [hash](_address_sshash_.md#hash)
 
@@ -12,7 +12,7 @@
 
 ▸ **hash**(`key`: `Uint8Array`): *`Uint8Array`*
 
-*Defined in [address/sshash.ts:11](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/address/sshash.ts#L11)*
+*Defined in [address/sshash.ts:11](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/address/sshash.ts#L11)*
 
 **Parameters:**
 

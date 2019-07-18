@@ -1,8 +1,8 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [KeyringInstance](../interfaces/_types_.keyringinstance.md)
 * [KeyringOptions](../interfaces/_types_.keyringoptions.md)
@@ -12,7 +12,7 @@
 * [KeyringPair$Meta](../interfaces/_types_.keyringpair_meta.md)
 * [KeyringPairs](../interfaces/_types_.keyringpairs.md)
 
-#### Type aliases
+### Type aliases
 
 * [KeyringPair$JsonVersion](_types_.md#keyringpair$jsonversion)
 
@@ -22,4 +22,4 @@
 
 Ƭ **KeyringPair$JsonVersion**: *"0" | "1" | "2"*
 
-*Defined in [types.ts:19](https://github.com/polkadot-js/common/blob/df8c103/packages/keyring/src/types.ts#L19)*
+*Defined in [types.ts:19](https://github.com/polkadot-js/common/blob/cd7aafc/packages/keyring/src/types.ts#L19)*

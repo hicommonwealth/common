@@ -1,8 +1,8 @@
 > # External module: "key/hdkdEd25519"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [keyHdkdEd25519](_key_hdkded25519_.md#keyhdkded25519)
 
@@ -12,7 +12,7 @@
 
 ▸ **keyHdkdEd25519**(`keypair`: [Keypair](../interfaces/_types_.keypair.md), `__namedParameters`: object): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [key/hdkdEd25519.ts:13](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/key/hdkdEd25519.ts#L13)*
+*Defined in [key/hdkdEd25519.ts:13](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/key/hdkdEd25519.ts#L13)*
 
 **Parameters:**
 

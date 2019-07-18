@@ -1,8 +1,8 @@
 > # External module: "schnorrkel/keypair/fromU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [schnorrkelKeypairFromU8a](_schnorrkel_keypair_fromu8a_.md#schnorrkelkeypairfromu8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **schnorrkelKeypairFromU8a**(`full`: `Uint8Array`): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [schnorrkel/keypair/fromU8a.ts:10](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts#L10)*
+*Defined in [schnorrkel/keypair/fromU8a.ts:10](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts#L10)*
 
 **Parameters:**
 

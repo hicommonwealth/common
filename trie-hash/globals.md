@@ -1,8 +1,8 @@
 > # Polkadot JS Common
 
-### Index
+## Index
 
-#### External modules
+### External modules
 
 * ["buildTrie"](modules/_buildtrie_.md)
 * ["defaults"](modules/_defaults_.md)

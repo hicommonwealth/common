@@ -4,9 +4,9 @@
 
 * **ProgressValue**
 
-### Index
+## Index
 
-#### Properties
+### Properties
 
 * [isCompleted](_types_.progressvalue.md#optional-iscompleted)
 * [keys](_types_.progressvalue.md#keys)
@@ -18,7 +18,7 @@
 
 • **isCompleted**? : *undefined | false | true*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/df8c103/packages/db/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/types.ts#L6)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **keys**: *number*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/df8c103/packages/db/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/types.ts#L7)*
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 • **percent**: *number*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/df8c103/packages/db/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/types.ts#L8)*

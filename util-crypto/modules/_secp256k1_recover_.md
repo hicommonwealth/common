@@ -1,8 +1,8 @@
 > # External module: "secp256k1/recover"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [secp256k1Recover](_secp256k1_recover_.md#secp256k1recover)
 
@@ -12,7 +12,7 @@
 
 ▸ **secp256k1Recover**(`message`: `Uint8Array`, `signature`: `Uint8Array`, `recovery`: number): *`Uint8Array`*
 
-*Defined in [secp256k1/recover.ts:12](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/secp256k1/recover.ts#L12)*
+*Defined in [secp256k1/recover.ts:12](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/secp256k1/recover.ts#L12)*
 
 **`name`** secp256k1Recover
 

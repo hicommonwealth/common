@@ -1,8 +1,8 @@
 > # External module: "mnemonic/validate"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [mnemonicValidate](_mnemonic_validate_.md#mnemonicvalidate)
 
@@ -12,7 +12,7 @@
 
 ▸ **mnemonicValidate**(`mnemonic`: string): *boolean*
 
-*Defined in [mnemonic/validate.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/mnemonic/validate.ts#L23)*
+*Defined in [mnemonic/validate.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/mnemonic/validate.ts#L23)*
 
 **`name`** mnemonicValidate
 

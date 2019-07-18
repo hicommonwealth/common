@@ -1,8 +1,8 @@
 > # External module: "is/object"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isObject](_is_object_.md#isobject)
 
@@ -12,7 +12,7 @@
 
 ▸ **isObject**(`value`: any): *boolean*
 
-*Defined in [is/object.ts:26](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/object.ts#L26)*
+*Defined in [is/object.ts:26](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/object.ts#L26)*
 
 **`name`** isObject
 

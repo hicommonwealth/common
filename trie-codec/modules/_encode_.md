@@ -1,8 +1,8 @@
 > # External module: "encode"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [encode](_encode_.md#encode)
 
@@ -12,7 +12,7 @@
 
 ▸ **encode**(`input?`: null | `Uint8Array` | null | `Uint8Array`[]): *`Uint8Array`*
 
-*Defined in [encode.ts:75](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-codec/src/encode.ts#L75)*
+*Defined in [encode.ts:75](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/encode.ts#L75)*
 
 **Parameters:**
 

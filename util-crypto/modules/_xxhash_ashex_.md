@@ -1,8 +1,8 @@
 > # External module: "xxhash/asHex"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [xxhashAsHex](_xxhash_ashex_.md#xxhashashex)
 
@@ -12,7 +12,7 @@
 
 ▸ **xxhashAsHex**(`data`: `Buffer` | `Uint8Array` | string, `bitLength`: number): *string*
 
-*Defined in [xxhash/asHex.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/xxhash/asHex.ts#L23)*
+*Defined in [xxhash/asHex.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/xxhash/asHex.ts#L23)*
 
 **`name`** xxhashAsHex
 

@@ -1,8 +1,8 @@
 > # External module: "xxhash/xxhash64/asBn"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [xxhash64AsBn](_xxhash_xxhash64_asbn_.md#xxhash64asbn)
 
@@ -12,7 +12,7 @@
 
 ▸ **xxhash64AsBn**(`data`: `Buffer` | `Uint8Array` | string, `seed`: number): *`BN`*
 
-*Defined in [xxhash/xxhash64/asBn.ts:23](https://github.com/polkadot-js/common/blob/df8c103/packages/util-crypto/src/xxhash/xxhash64/asBn.ts#L23)*
+*Defined in [xxhash/xxhash64/asBn.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-crypto/src/xxhash/xxhash64/asBn.ts#L23)*
 
 **`name`** xxhash64AsBn
 

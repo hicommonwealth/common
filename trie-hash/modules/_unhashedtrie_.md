@@ -1,8 +1,8 @@
 > # External module: "unhashedTrie"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [unhashedTrie](_unhashedtrie_.md#unhashedtrie)
 
@@ -12,7 +12,7 @@
 
 ▸ **unhashedTrie**(`input`: [TriePair](../interfaces/_types_.triepair.md)[], `codec`: `Codec`): *`Uint8Array`*
 
-*Defined in [unhashedTrie.ts:14](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-hash/src/unhashedTrie.ts#L14)*
+*Defined in [unhashedTrie.ts:14](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-hash/src/unhashedTrie.ts#L14)*
 
 **Parameters:**
 

@@ -1,8 +1,8 @@
 > # External module: "is/function"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [isFunction](_is_function_.md#isfunction)
 
@@ -12,7 +12,7 @@
 
 ▸ **isFunction**(`value`: any): *boolean*
 
-*Defined in [is/function.ts:20](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/is/function.ts#L20)*
+*Defined in [is/function.ts:20](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/function.ts#L20)*
 
 **`name`** isFunction
 

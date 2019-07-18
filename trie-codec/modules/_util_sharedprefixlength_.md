@@ -1,8 +1,8 @@
 > # External module: "util/sharedPrefixLength"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [sharedPrefixLength](_util_sharedprefixlength_.md#sharedprefixlength)
 
@@ -12,7 +12,7 @@
 
 ▸ **sharedPrefixLength**(`first`: `Uint8Array`, `second`: `Uint8Array`): *number*
 
-*Defined in [util/sharedPrefixLength.ts:5](https://github.com/polkadot-js/common/blob/df8c103/packages/trie-codec/src/util/sharedPrefixLength.ts#L5)*
+*Defined in [util/sharedPrefixLength.ts:5](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/util/sharedPrefixLength.ts#L5)*
 
 **Parameters:**
 

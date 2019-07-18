@@ -1,8 +1,8 @@
 > # External module: "assert"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [assert](_assert_.md#assert)
 
@@ -12,7 +12,7 @@
 
 ▸ **assert**<**T**>(`test`: `Falsy` | `T`, `message`: string | `MessageFn`, `code`: number, `data?`: string | number): *boolean*
 
-*Defined in [assert.ts:28](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/assert.ts#L28)*
+*Defined in [assert.ts:28](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/assert.ts#L28)*
 
 **`name`** assert
 

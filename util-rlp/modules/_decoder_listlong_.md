@@ -1,8 +1,8 @@
 > # External module: "decoder/listLong"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [decodeListLong](_decoder_listlong_.md#decodelistlong)
 
@@ -12,7 +12,7 @@
 
 ▸ **decodeListLong**(`decode`: [DecodeFunc](_decoder_types_.md#decodefunc), `input`: `Uint8Array`): *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*
 
-*Defined in [decoder/listLong.ts:11](https://github.com/polkadot-js/common/blob/df8c103/packages/util-rlp/src/decoder/listLong.ts#L11)*
+*Defined in [decoder/listLong.ts:11](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util-rlp/src/decoder/listLong.ts#L11)*
 
 **Parameters:**
 

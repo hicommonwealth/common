@@ -1,7 +1,7 @@
 > # External module: "types"
 
-### Index
+## Index
 
-#### Interfaces
+### Interfaces
 
 * [TriePair](../interfaces/_types_.triepair.md)

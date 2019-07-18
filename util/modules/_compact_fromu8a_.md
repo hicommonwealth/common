@@ -1,8 +1,8 @@
 > # External module: "compact/fromU8a"
 
-### Index
+## Index
 
-#### Functions
+### Functions
 
 * [compactFromU8a](_compact_fromu8a_.md#compactfromu8a)
 
@@ -12,7 +12,7 @@
 
 ▸ **compactFromU8a**(`_input`: `Uint8Array` | string, `bitLength`: [BitLength](_compact_types_.md#bitlength)): *[number, `BN`]*
 
-*Defined in [compact/fromU8a.ts:27](https://github.com/polkadot-js/common/blob/df8c103/packages/util/src/compact/fromU8a.ts#L27)*
+*Defined in [compact/fromU8a.ts:27](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/compact/fromU8a.ts#L27)*
 
 **`name`** compactFromU8a
 
