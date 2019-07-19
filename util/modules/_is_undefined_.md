@@ -12,7 +12,7 @@
 
 ▸ **isUndefined**(`value?`: any): *boolean*
 
-*Defined in [is/undefined.ts:20](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/undefined.ts#L20)*
+*Defined in [is/undefined.ts:20](https://github.com/polkadot-js/common/blob/c7c04bf/packages/util/src/is/undefined.ts#L20)*
 
 **`name`** isUndefined
 

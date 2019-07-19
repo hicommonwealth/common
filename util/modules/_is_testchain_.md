@@ -12,7 +12,7 @@
 
 ▸ **isTestChain**(`chain?`: string | null): *boolean*
 
-*Defined in [is/testChain.ts:7](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/is/testChain.ts#L7)*
+*Defined in [is/testChain.ts:7](https://github.com/polkadot-js/common/blob/c7c04bf/packages/util/src/is/testChain.ts#L7)*
 
 **Parameters:**
 

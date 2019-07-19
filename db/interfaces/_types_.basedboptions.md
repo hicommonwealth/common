@@ -18,7 +18,7 @@
 
 • **isCompressed**? : *undefined | false | true*
 
-*Defined in [types.ts:14](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/types.ts#L14)*
+*Defined in [types.ts:14](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/types.ts#L14)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **isLru**? : *undefined | false | true*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/types.ts#L15)*
+*Defined in [types.ts:15](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/types.ts#L15)*
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 • **isNative**? : *undefined | false | true*
 
-*Defined in [types.ts:16](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/types.ts#L16)*
+*Defined in [types.ts:16](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/types.ts#L16)*

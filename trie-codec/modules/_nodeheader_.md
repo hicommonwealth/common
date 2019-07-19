@@ -20,7 +20,7 @@
 
 Ƭ **BranchHeader**: *boolean*
 
-*Defined in [NodeHeader.ts:14](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/NodeHeader.ts#L14)*
+*Defined in [NodeHeader.ts:14](https://github.com/polkadot-js/common/blob/c7c04bf/packages/trie-codec/src/NodeHeader.ts#L14)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 Ƭ **ExtensionHeader**: *[NibbleHeader](_nodeheader_.md#nibbleheader)*
 
-*Defined in [NodeHeader.ts:16](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/NodeHeader.ts#L16)*
+*Defined in [NodeHeader.ts:16](https://github.com/polkadot-js/common/blob/c7c04bf/packages/trie-codec/src/NodeHeader.ts#L16)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 Ƭ **LeafHeader**: *[NibbleHeader](_nodeheader_.md#nibbleheader)*
 
-*Defined in [NodeHeader.ts:17](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/NodeHeader.ts#L17)*
+*Defined in [NodeHeader.ts:17](https://github.com/polkadot-js/common/blob/c7c04bf/packages/trie-codec/src/NodeHeader.ts#L17)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 Ƭ **NibbleHeader**: *number*
 
-*Defined in [NodeHeader.ts:15](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/NodeHeader.ts#L15)*
+*Defined in [NodeHeader.ts:15](https://github.com/polkadot-js/common/blob/c7c04bf/packages/trie-codec/src/NodeHeader.ts#L15)*
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 Ƭ **Null**: *null*
 
-*Defined in [NodeHeader.ts:13](https://github.com/polkadot-js/common/blob/cd7aafc/packages/trie-codec/src/NodeHeader.ts#L13)*
+*Defined in [NodeHeader.ts:13](https://github.com/polkadot-js/common/blob/c7c04bf/packages/trie-codec/src/NodeHeader.ts#L13)*

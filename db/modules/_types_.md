@@ -19,7 +19,7 @@
 
 Ƭ **ProgressCb**: *function*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/types.ts#L11)*
 
 #### Type declaration:
 

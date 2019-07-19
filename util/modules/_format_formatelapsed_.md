@@ -12,7 +12,7 @@
 
 ▸ **formatElapsed**(`now?`: `Date` | null, `value?`: `BN` | [Compact](../interfaces/_format_types_.compact.md) | `Date` | number | null): *string*
 
-*Defined in [format/formatElapsed.ts:23](https://github.com/polkadot-js/common/blob/cd7aafc/packages/util/src/format/formatElapsed.ts#L23)*
+*Defined in [format/formatElapsed.ts:23](https://github.com/polkadot-js/common/blob/c7c04bf/packages/util/src/format/formatElapsed.ts#L23)*
 
 **Parameters:**
 

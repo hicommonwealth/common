@@ -96,7 +96,7 @@ memoryDb.close();
 
 *Overrides [TransactionDb](_engines_transactiondb_.transactiondb.md).[constructor](_engines_transactiondb_.transactiondb.md#constructor)*
 
-*Defined in [Memory.ts:64](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/Memory.ts#L64)*
+*Defined in [Memory.ts:64](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/Memory.ts#L64)*
 
 **Returns:** *[Memory](_memory_.memory.md)*
 
@@ -110,7 +110,7 @@ memoryDb.close();
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[close](_engines_transactiondb_.transactiondb.md#close)*
 
-*Defined in [engines/TransactionDb.ts:50](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L50)*
+*Defined in [engines/TransactionDb.ts:50](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L50)*
 
 **Returns:** *void*
 
@@ -124,7 +124,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[del](_engines_transactiondb_.transactiondb.md#del)*
 
-*Defined in [engines/TransactionDb.ts:80](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L80)*
+*Defined in [engines/TransactionDb.ts:80](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L80)*
 
 **Parameters:**
 
@@ -144,7 +144,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[drop](_engines_transactiondb_.transactiondb.md#drop)*
 
-*Defined in [engines/TransactionDb.ts:58](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L58)*
+*Defined in [engines/TransactionDb.ts:58](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L58)*
 
 **Returns:** *void*
 
@@ -158,7 +158,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[empty](_engines_transactiondb_.transactiondb.md#empty)*
 
-*Defined in [engines/TransactionDb.ts:62](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L62)*
+*Defined in [engines/TransactionDb.ts:62](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L62)*
 
 **Returns:** *void*
 
@@ -172,7 +172,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[get](_engines_transactiondb_.transactiondb.md#get)*
 
-*Defined in [engines/TransactionDb.ts:89](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L89)*
+*Defined in [engines/TransactionDb.ts:89](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L89)*
 
 **Parameters:**
 
@@ -192,7 +192,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[maintain](_engines_transactiondb_.transactiondb.md#maintain)*
 
-*Defined in [engines/TransactionDb.ts:70](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L70)*
+*Defined in [engines/TransactionDb.ts:70](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L70)*
 
 **Parameters:**
 
@@ -212,7 +212,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[open](_engines_transactiondb_.transactiondb.md#open)*
 
-*Defined in [engines/TransactionDb.ts:54](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L54)*
+*Defined in [engines/TransactionDb.ts:54](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L54)*
 
 **Returns:** *void*
 
@@ -226,7 +226,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[put](_engines_transactiondb_.transactiondb.md#put)*
 
-*Defined in [engines/TransactionDb.ts:103](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L103)*
+*Defined in [engines/TransactionDb.ts:103](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L103)*
 
 **Parameters:**
 
@@ -247,7 +247,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[rename](_engines_transactiondb_.transactiondb.md#rename)*
 
-*Defined in [engines/TransactionDb.ts:66](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L66)*
+*Defined in [engines/TransactionDb.ts:66](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L66)*
 
 **Parameters:**
 
@@ -268,7 +268,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[size](_engines_transactiondb_.transactiondb.md#size)*
 
-*Defined in [engines/TransactionDb.ts:76](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L76)*
+*Defined in [engines/TransactionDb.ts:76](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L76)*
 
 **Returns:** *number*
 
@@ -280,7 +280,7 @@ ___
 
 *Inherited from [TransactionDb](_engines_transactiondb_.transactiondb.md).[transaction](_engines_transactiondb_.transactiondb.md#transaction)*
 
-*Defined in [engines/TransactionDb.ts:28](https://github.com/polkadot-js/common/blob/cd7aafc/packages/db/src/engines/TransactionDb.ts#L28)*
+*Defined in [engines/TransactionDb.ts:28](https://github.com/polkadot-js/common/blob/c7c04bf/packages/db/src/engines/TransactionDb.ts#L28)*
 
 **Type parameters:**
 
