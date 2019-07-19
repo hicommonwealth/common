@@ -12,7 +12,7 @@
 
 ▸ **decode**(`passphrase?`: undefined | string, `_encrypted?`: `Uint8Array` | null): *`DecodeResult`*
 
-*Defined in [pair/decode.ts:17](https://github.com/polkadot-js/common/blob/c7c04bf/packages/keyring/src/pair/decode.ts#L17)*
+*Defined in [pair/decode.ts:17](https://github.com/polkadot-js/common/blob/b44d0c7/packages/keyring/src/pair/decode.ts#L17)*
 
 **Parameters:**
 
