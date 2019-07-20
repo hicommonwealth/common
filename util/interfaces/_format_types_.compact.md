@@ -17,7 +17,7 @@
 
 • **toBn**: *function*
 
-*Defined in [format/types.ts:8](https://github.com/polkadot-js/common/blob/aab3ed5/packages/util/src/format/types.ts#L8)*
+*Defined in [format/types.ts:8](https://github.com/polkadot-js/common/blob/8fdfd7f/packages/util/src/format/types.ts#L8)*
 
 #### Type declaration:
 
@@ -29,7 +29,7 @@ ___
 
 • **unwrap**: *function*
 
-*Defined in [format/types.ts:9](https://github.com/polkadot-js/common/blob/aab3ed5/packages/util/src/format/types.ts#L9)*
+*Defined in [format/types.ts:9](https://github.com/polkadot-js/common/blob/8fdfd7f/packages/util/src/format/types.ts#L9)*
 
 #### Type declaration:
 

@@ -16,7 +16,7 @@
 
 ▸ **promisify**(`self`: any, `fn`: [PromisifyFn](../interfaces/_promisify_.promisifyfn.md), ...`params`: `ParamType`): *`Promise<any>`*
 
-*Defined in [promisify.ts:35](https://github.com/polkadot-js/common/blob/aab3ed5/packages/util/src/promisify.ts#L35)*
+*Defined in [promisify.ts:35](https://github.com/polkadot-js/common/blob/8fdfd7f/packages/util/src/promisify.ts#L35)*
 
 **`name`** promisify
 
