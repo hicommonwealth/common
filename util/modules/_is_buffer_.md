@@ -12,7 +12,7 @@
 
 ▸ **isBuffer**(`value`: any): *boolean*
 
-*Defined in [is/buffer.ts:22](https://github.com/polkadot-js/common/blob/8fdfd7f/packages/util/src/is/buffer.ts#L22)*
+*Defined in [is/buffer.ts:22](https://github.com/polkadot-js/common/blob/884c965/packages/util/src/is/buffer.ts#L22)*
 
 **`name`** isBuffer
 

@@ -12,7 +12,7 @@
 
 ▸ **compactAddLength**(`input`: `Uint8Array`): *`Uint8Array`*
 
-*Defined in [compact/addLength.ts:20](https://github.com/polkadot-js/common/blob/8fdfd7f/packages/util/src/compact/addLength.ts#L20)*
+*Defined in [compact/addLength.ts:20](https://github.com/polkadot-js/common/blob/884c965/packages/util/src/compact/addLength.ts#L20)*
 
 **`name`** compactAddLength
 

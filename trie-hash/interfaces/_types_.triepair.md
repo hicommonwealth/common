@@ -17,7 +17,7 @@
 
 • **k**: *`Uint8Array`*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/8fdfd7f/packages/trie-hash/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/884c965/packages/trie-hash/src/types.ts#L6)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 • **v**: *`Uint8Array`*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/8fdfd7f/packages/trie-hash/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/884c965/packages/trie-hash/src/types.ts#L7)*

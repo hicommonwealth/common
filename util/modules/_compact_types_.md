@@ -12,4 +12,4 @@
 
 Ƭ **BitLength**: *`8` | `16` | `32` | `64` | `128` | `256`*
 
-*Defined in [compact/types.ts:5](https://github.com/polkadot-js/common/blob/8fdfd7f/packages/util/src/compact/types.ts#L5)*
+*Defined in [compact/types.ts:5](https://github.com/polkadot-js/common/blob/884c965/packages/util/src/compact/types.ts#L5)*
