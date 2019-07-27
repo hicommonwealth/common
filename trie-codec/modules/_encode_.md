@@ -12,7 +12,7 @@
 
 ▸ **encode**(`input?`: null | `Uint8Array` | null | `Uint8Array`[]): *`Uint8Array`*
 
-*Defined in [encode.ts:75](https://github.com/polkadot-js/common/blob/1555561/packages/trie-codec/src/encode.ts#L75)*
+*Defined in [encode.ts:75](https://github.com/polkadot-js/common/blob/5d7ddcb/packages/trie-codec/src/encode.ts#L75)*
 
 **Parameters:**
 

@@ -10,14 +10,18 @@
 
 ###  formatNumber
 
-▸ **formatNumber**(`_value?`: [Compact](../interfaces/_format_types_.compact.md) | `BN` | number | null): *string*
+▸ **formatNumber**<**ExtToBn**>(`value?`: `ExtToBn` | `BN` | number | null): *string*
 
-*Defined in [format/formatNumber.ts:12](https://github.com/polkadot-js/common/blob/1555561/packages/util/src/format/formatNumber.ts#L12)*
+*Defined in [format/formatNumber.ts:12](https://github.com/polkadot-js/common/blob/5d7ddcb/packages/util/src/format/formatNumber.ts#L12)*
+
+**Type parameters:**
+
+▪ **ExtToBn**: *[ToBn](../interfaces/_types_.tobn.md)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`_value?` | [Compact](../interfaces/_format_types_.compact.md) \| `BN` \| number \| null |
+`value?` | `ExtToBn` \| `BN` \| number \| null |
 
 **Returns:** *string*

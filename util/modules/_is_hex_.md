@@ -12,7 +12,7 @@
 
 ▸ **isHex**(`value`: any, `bitLength`: number, `ignoreLength`: boolean): *boolean*
 
-*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/1555561/packages/util/src/is/hex.ts#L25)*
+*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/5d7ddcb/packages/util/src/is/hex.ts#L25)*
 
 **`name`** isHex
 

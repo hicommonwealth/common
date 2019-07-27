@@ -10,9 +10,9 @@
 
 ###  bnToBn
 
-▸ **bnToBn**(`value?`: `BN` | number | null): *`BN`*
+▸ **bnToBn**<**ExtToBn**>(`value?`: `ExtToBn` | `BN` | string | number | null): *`BN`*
 
-*Defined in [bn/toBn.ts:23](https://github.com/polkadot-js/common/blob/1555561/packages/util/src/bn/toBn.ts#L23)*
+*Defined in [bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/5d7ddcb/packages/util/src/bn/toBn.ts#L29)*
 
 **`name`** bnToBn
 
@@ -32,10 +32,14 @@ bnToBn(0x1234); // => BN(0x1234)
 bnToBn(new BN(0x1234)); // => BN(0x1234)
 ```
 
+**Type parameters:**
+
+▪ **ExtToBn**: *[ToBn](../interfaces/_types_.tobn.md)*
+
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`value?` | `BN` \| number \| null |
+`value?` | `ExtToBn` \| `BN` \| string \| number \| null |
 
 **Returns:** *`BN`*

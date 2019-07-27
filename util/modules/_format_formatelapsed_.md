@@ -10,15 +10,19 @@
 
 ###  formatElapsed
 
-▸ **formatElapsed**(`now?`: `Date` | null, `value?`: `BN` | [Compact](../interfaces/_format_types_.compact.md) | `Date` | number | null): *string*
+▸ **formatElapsed**<**ExtToBn**>(`now?`: `Date` | null, `value?`: `BN` | `ExtToBn` | `Date` | number | null): *string*
 
-*Defined in [format/formatElapsed.ts:23](https://github.com/polkadot-js/common/blob/1555561/packages/util/src/format/formatElapsed.ts#L23)*
+*Defined in [format/formatElapsed.ts:25](https://github.com/polkadot-js/common/blob/5d7ddcb/packages/util/src/format/formatElapsed.ts#L25)*
+
+**Type parameters:**
+
+▪ **ExtToBn**: *[ToBn](../interfaces/_types_.tobn.md)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
 `now?` | `Date` \| null |
-`value?` | `BN` \| [Compact](../interfaces/_format_types_.compact.md) \| `Date` \| number \| null |
+`value?` | `BN` \| `ExtToBn` \| `Date` \| number \| null |
 
 **Returns:** *string*
