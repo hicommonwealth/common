@@ -41,7 +41,7 @@
 
 *Inherited from [BaseDb](_types_.basedb.md).[txCommit](_types_.basedb.md#optional-txcommit)*
 
-*Defined in [types.ts:28](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L28)*
+*Defined in [types.ts:28](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L28)*
 
 ___
 
@@ -51,7 +51,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[txRevert](_types_.basedb.md#optional-txrevert)*
 
-*Defined in [types.ts:29](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L29)*
+*Defined in [types.ts:29](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L29)*
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[txStart](_types_.basedb.md#optional-txstart)*
 
-*Defined in [types.ts:30](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L30)*
+*Defined in [types.ts:30](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L30)*
 
 ## Methods
 
@@ -71,7 +71,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[close](_types_.basedb.md#close)*
 
-*Defined in [types.ts:20](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L20)*
+*Defined in [types.ts:20](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L20)*
 
 **Returns:** *void*
 
@@ -83,7 +83,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[del](_types_.basedb.md#del)*
 
-*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L32)*
+*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L32)*
 
 **Parameters:**
 
@@ -101,7 +101,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[drop](_types_.basedb.md#drop)*
 
-*Defined in [types.ts:22](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L22)*
+*Defined in [types.ts:22](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L22)*
 
 **Returns:** *void*
 
@@ -113,7 +113,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[empty](_types_.basedb.md#empty)*
 
-*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L23)*
+*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L23)*
 
 **Returns:** *void*
 
@@ -125,7 +125,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[get](_types_.basedb.md#get)*
 
-*Defined in [types.ts:33](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L33)*
+*Defined in [types.ts:33](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L33)*
 
 **Parameters:**
 
@@ -143,7 +143,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[maintain](_types_.basedb.md#maintain)*
 
-*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L24)*
+*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L24)*
 
 **Parameters:**
 
@@ -161,7 +161,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[open](_types_.basedb.md#open)*
 
-*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L21)*
+*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L21)*
 
 **Returns:** *void*
 
@@ -173,7 +173,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[put](_types_.basedb.md#put)*
 
-*Defined in [types.ts:34](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L34)*
+*Defined in [types.ts:34](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L34)*
 
 **Parameters:**
 
@@ -192,7 +192,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[rename](_types_.basedb.md#rename)*
 
-*Defined in [types.ts:25](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L25)*
+*Defined in [types.ts:25](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L25)*
 
 **Parameters:**
 
@@ -211,7 +211,7 @@ ___
 
 *Inherited from [BaseDb](_types_.basedb.md).[size](_types_.basedb.md#size)*
 
-*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L26)*
+*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L26)*
 
 **Returns:** *number*
 
@@ -221,7 +221,7 @@ ___
 
 ▸ **transaction**<**T**>(`fn`: function): *`T`*
 
-*Defined in [types.ts:38](https://github.com/polkadot-js/common/blob/884c965/packages/db/src/types.ts#L38)*
+*Defined in [types.ts:38](https://github.com/polkadot-js/common/blob/1555561/packages/db/src/types.ts#L38)*
 
 **Type parameters:**
 

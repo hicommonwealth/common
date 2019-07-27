@@ -12,6 +12,6 @@
 
 ▸ **createEmpty**(): *`Uint8Array`*
 
-*Defined in [stream/createEmpty.ts:7](https://github.com/polkadot-js/common/blob/884c965/packages/trie-codec/src/stream/createEmpty.ts#L7)*
+*Defined in [stream/createEmpty.ts:7](https://github.com/polkadot-js/common/blob/1555561/packages/trie-codec/src/stream/createEmpty.ts#L7)*
 
 **Returns:** *`Uint8Array`*

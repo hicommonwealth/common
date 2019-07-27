@@ -12,7 +12,7 @@
 
 ▸ **encode**(`_key`: `Uint8Array` | string, `prefix`: [Prefix](_address_types_.md#prefix)): *string*
 
-*Defined in [address/encode.ts:15](https://github.com/polkadot-js/common/blob/884c965/packages/util-crypto/src/address/encode.ts#L15)*
+*Defined in [address/encode.ts:15](https://github.com/polkadot-js/common/blob/1555561/packages/util-crypto/src/address/encode.ts#L15)*
 
 **Parameters:**
 
