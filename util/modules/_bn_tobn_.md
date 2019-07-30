@@ -12,7 +12,7 @@
 
 ▸ **bnToBn**<**ExtToBn**>(`value?`: `ExtToBn` | `BN` | string | number | null): *`BN`*
 
-*Defined in [bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/5d7ddcb/packages/util/src/bn/toBn.ts#L29)*
+*Defined in [bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/de7e9f8/packages/util/src/bn/toBn.ts#L29)*
 
 **`name`** bnToBn
 

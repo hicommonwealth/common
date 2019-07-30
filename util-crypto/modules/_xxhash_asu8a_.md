@@ -12,7 +12,7 @@
 
 ▸ **xxhashAsU8a**(`data`: `Buffer` | `Uint8Array` | string, `bitLength`: number): *`Uint8Array`*
 
-*Defined in [xxhash/asU8a.ts:24](https://github.com/polkadot-js/common/blob/5d7ddcb/packages/util-crypto/src/xxhash/asU8a.ts#L24)*
+*Defined in [xxhash/asU8a.ts:24](https://github.com/polkadot-js/common/blob/de7e9f8/packages/util-crypto/src/xxhash/asU8a.ts#L24)*
 
 **`name`** xxhashAsU8a
 
