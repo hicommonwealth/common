@@ -12,7 +12,7 @@
 
 ▸ **bnToHex**(`value?`: `BN` | number | null, `options`: number | `Options`): *string*
 
-*Defined in [bn/toHex.ts:33](https://github.com/polkadot-js/common/blob/de7e9f8/packages/util/src/bn/toHex.ts#L33)*
+*Defined in [bn/toHex.ts:33](https://github.com/polkadot-js/common/blob/395569c/packages/util/src/bn/toHex.ts#L33)*
 
 **`name`** bnToHex
 
