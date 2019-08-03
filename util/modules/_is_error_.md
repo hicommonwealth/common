@@ -12,7 +12,7 @@
 
 ▸ **isError**(`value`: any): *boolean*
 
-*Defined in [is/error.ts:22](https://github.com/polkadot-js/common/blob/395569c/packages/util/src/is/error.ts#L22)*
+*Defined in [is/error.ts:22](https://github.com/polkadot-js/common/blob/f0aebfc/packages/util/src/is/error.ts#L22)*
 
 **`name`** isError
 
