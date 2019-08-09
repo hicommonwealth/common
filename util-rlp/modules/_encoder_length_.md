@@ -12,7 +12,7 @@
 
 ▸ **encodeLength**(`length`: number, `offset`: number): *`Uint8Array`*
 
-*Defined in [encoder/length.ts:7](https://github.com/polkadot-js/common/blob/09e0b80/packages/util-rlp/src/encoder/length.ts#L7)*
+*Defined in [encoder/length.ts:7](https://github.com/polkadot-js/common/blob/1d0a4e7/packages/util-rlp/src/encoder/length.ts#L7)*
 
 **Parameters:**
 

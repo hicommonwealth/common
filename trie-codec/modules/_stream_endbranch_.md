@@ -12,7 +12,7 @@
 
 ▸ **encBranch**(`value`: `Uint8Array` | null): *`Uint8Array`*
 
-*Defined in [stream/endBranch.ts:8](https://github.com/polkadot-js/common/blob/09e0b80/packages/trie-codec/src/stream/endBranch.ts#L8)*
+*Defined in [stream/endBranch.ts:8](https://github.com/polkadot-js/common/blob/1d0a4e7/packages/trie-codec/src/stream/endBranch.ts#L8)*
 
 **Parameters:**
 
