@@ -6,4 +6,4 @@
 
 ## Indexable
 
-● \[▪ **index**: *string*\]: any
+* \[ **index**: *string*\]: any

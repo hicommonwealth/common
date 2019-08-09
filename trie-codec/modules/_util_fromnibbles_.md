@@ -12,7 +12,7 @@
 
 ▸ **fromNibbles**(`input`: `Uint8Array`): *`Uint8Array`*
 
-*Defined in [util/fromNibbles.ts:19](https://github.com/polkadot-js/common/blob/f0aebfc/packages/trie-codec/src/util/fromNibbles.ts#L19)*
+*Defined in [util/fromNibbles.ts:19](https://github.com/polkadot-js/common/blob/09e0b80/packages/trie-codec/src/util/fromNibbles.ts#L19)*
 
 **`name`** fromNibbles
 

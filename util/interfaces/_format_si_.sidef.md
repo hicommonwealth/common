@@ -18,7 +18,7 @@
 
 • **power**: *number*
 
-*Defined in [format/si.ts:6](https://github.com/polkadot-js/common/blob/f0aebfc/packages/util/src/format/si.ts#L6)*
+*Defined in [format/si.ts:6](https://github.com/polkadot-js/common/blob/09e0b80/packages/util/src/format/si.ts#L6)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **text**: *string*
 
-*Defined in [format/si.ts:7](https://github.com/polkadot-js/common/blob/f0aebfc/packages/util/src/format/si.ts#L7)*
+*Defined in [format/si.ts:7](https://github.com/polkadot-js/common/blob/09e0b80/packages/util/src/format/si.ts#L7)*
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 • **value**: *string*
 
-*Defined in [format/si.ts:8](https://github.com/polkadot-js/common/blob/f0aebfc/packages/util/src/format/si.ts#L8)*
+*Defined in [format/si.ts:8](https://github.com/polkadot-js/common/blob/09e0b80/packages/util/src/format/si.ts#L8)*

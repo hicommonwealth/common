@@ -20,7 +20,7 @@
 
 Ƭ **BnList**: *object & `BN`[]*
 
-*Defined in [types.ts:36](https://github.com/polkadot-js/common/blob/f0aebfc/packages/util/src/types.ts#L36)*
+*Defined in [types.ts:36](https://github.com/polkadot-js/common/blob/09e0b80/packages/util/src/types.ts#L36)*
 
 ___
 
@@ -28,4 +28,4 @@ ___
 
 Ƭ **Logger$Data**: *any[]*
 
-*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/f0aebfc/packages/util/src/types.ts#L21)*
+*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/09e0b80/packages/util/src/types.ts#L21)*

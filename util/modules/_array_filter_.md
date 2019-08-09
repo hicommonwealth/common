@@ -12,7 +12,7 @@
 
 ▸ **arrayFilter**(`array`: any[], `allowNulls`: boolean): *any[]*
 
-*Defined in [array/filter.ts:24](https://github.com/polkadot-js/common/blob/f0aebfc/packages/util/src/array/filter.ts#L24)*
+*Defined in [array/filter.ts:24](https://github.com/polkadot-js/common/blob/09e0b80/packages/util/src/array/filter.ts#L24)*
 
 **`name`** arrayFilter
 

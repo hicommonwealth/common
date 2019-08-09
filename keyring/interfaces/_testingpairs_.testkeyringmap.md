@@ -6,4 +6,4 @@
 
 ## Indexable
 
-● \[▪ **index**: *string*\]: [KeyringPair](_types_.keyringpair.md)
+* \[ **index**: *string*\]: [KeyringPair](_types_.keyringpair.md)
