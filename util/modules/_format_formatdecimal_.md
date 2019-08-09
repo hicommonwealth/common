@@ -12,7 +12,7 @@
 
 ▸ **formatDecimal**(`value`: string): *string*
 
-*Defined in [format/formatDecimal.ts:7](https://github.com/polkadot-js/common/blob/1d0a4e7/packages/util/src/format/formatDecimal.ts#L7)*
+*Defined in [format/formatDecimal.ts:7](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/format/formatDecimal.ts#L7)*
 
 **Parameters:**
 

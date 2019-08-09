@@ -12,7 +12,7 @@
 
 ▸ **isToBn**(`value?`: any): *boolean*
 
-*Defined in [is/toBn.ts:10](https://github.com/polkadot-js/common/blob/1d0a4e7/packages/util/src/is/toBn.ts#L10)*
+*Defined in [is/toBn.ts:10](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/is/toBn.ts#L10)*
 
 **Parameters:**
 
