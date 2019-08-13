@@ -8,7 +8,7 @@
 
 ▸ (`cb`: function): *any*
 
-*Defined in [promisify.ts:8](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/promisify.ts#L8)*
+*Defined in [promisify.ts:8](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/promisify.ts#L8)*
 
 **Parameters:**
 
@@ -27,7 +27,7 @@ Name | Type |
 
 ▸ (`a`: any, `cb`: function): *any*
 
-*Defined in [promisify.ts:9](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/promisify.ts#L9)*
+*Defined in [promisify.ts:9](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/promisify.ts#L9)*
 
 **Parameters:**
 
@@ -48,7 +48,7 @@ Name | Type |
 
 ▸ (`a`: any, `b`: any, `cb`: function): *any*
 
-*Defined in [promisify.ts:10](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/promisify.ts#L10)*
+*Defined in [promisify.ts:10](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/promisify.ts#L10)*
 
 **Parameters:**
 
@@ -71,7 +71,7 @@ Name | Type |
 
 ▸ (`a`: any, `b`: any, `c`: any, `cb`: function): *any*
 
-*Defined in [promisify.ts:11](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/promisify.ts#L11)*
+*Defined in [promisify.ts:11](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/promisify.ts#L11)*
 
 **Parameters:**
 
@@ -96,7 +96,7 @@ Name | Type |
 
 ▸ (`a`: any, `b`: any, `c`: any, `d`: any, `cb`: function): *any*
 
-*Defined in [promisify.ts:12](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/promisify.ts#L12)*
+*Defined in [promisify.ts:12](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/promisify.ts#L12)*
 
 **Parameters:**
 
@@ -123,7 +123,7 @@ Name | Type |
 
 ▸ (`a`: any, `b`: any, `c`: any, `d`: any, `e`: any, `cb`: function): *any*
 
-*Defined in [promisify.ts:13](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/promisify.ts#L13)*
+*Defined in [promisify.ts:13](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/promisify.ts#L13)*
 
 **Parameters:**
 
@@ -152,7 +152,7 @@ Name | Type |
 
 ▸ (`a`: any, `b`: any, `c`: any, `d`: any, `e`: any, `f`: any, `cb`: function): *any*
 
-*Defined in [promisify.ts:14](https://github.com/polkadot-js/common/blob/808b633/packages/util/src/promisify.ts#L14)*
+*Defined in [promisify.ts:14](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/promisify.ts#L14)*
 
 **Parameters:**
 
