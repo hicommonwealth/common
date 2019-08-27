@@ -10,9 +10,9 @@
 
 ###  max
 
-▸ **max**(...`items`: `BN`[]): *`BN`*
+▸ **max**(...`items`: BN[]): *BN*
 
-*Defined in [bn/max.ts:22](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/bn/max.ts#L22)*
+*Defined in [bn/max.ts:22](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/bn/max.ts#L22)*
 
 **`name`** max
 
@@ -32,6 +32,6 @@ max([new BN(1), new BN(3), new BN(2)]).toString(); // => '3'
 
 Name | Type |
 ------ | ------ |
-`...items` | `BN`[] |
+`...items` | BN[] |
 
-**Returns:** *`BN`*
+**Returns:** *BN*

@@ -10,14 +10,14 @@
 
 ###  decode
 
-▸ **decode**(`input`: `Uint8Array`): *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*
+▸ **decode**(`input`: Uint8Array): *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*
 
-*Defined in [decoder/decode.ts:28](https://github.com/polkadot-js/common/blob/4308722/packages/util-rlp/src/decoder/decode.ts#L28)*
+*Defined in [decoder/decode.ts:28](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-rlp/src/decoder/decode.ts#L28)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`input` | `Uint8Array` |
+`input` | Uint8Array |
 
 **Returns:** *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*

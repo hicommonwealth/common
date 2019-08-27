@@ -10,15 +10,15 @@
 
 ###  decode
 
-▸ **decode**(`passphrase?`: undefined | string, `_encrypted?`: `Uint8Array` | null): *`DecodeResult`*
+▸ **decode**(`passphrase?`: undefined | string, `_encrypted?`: Uint8Array | null): *DecodeResult*
 
-*Defined in [pair/decode.ts:17](https://github.com/polkadot-js/common/blob/4308722/packages/keyring/src/pair/decode.ts#L17)*
+*Defined in [pair/decode.ts:17](https://github.com/polkadot-js/common/blob/a8b28a2/packages/keyring/src/pair/decode.ts#L17)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
 `passphrase?` | undefined \| string |
-`_encrypted?` | `Uint8Array` \| null |
+`_encrypted?` | Uint8Array \| null |
 
-**Returns:** *`DecodeResult`*
+**Returns:** *DecodeResult*

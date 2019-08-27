@@ -10,15 +10,15 @@
 
 ###  createBranch
 
-▸ **createBranch**(`value`: `Uint8Array` | null, `hasChildren`: boolean[]): *`Uint8Array`*
+▸ **createBranch**(`value`: Uint8Array | null, `hasChildren`: boolean[]): *Uint8Array*
 
-*Defined in [stream/createBranch.ts:10](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/stream/createBranch.ts#L10)*
+*Defined in [stream/createBranch.ts:10](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/stream/createBranch.ts#L10)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`value` | `Uint8Array` \| null |
+`value` | Uint8Array \| null |
 `hasChildren` | boolean[] |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

@@ -10,9 +10,9 @@
 
 ###  stringToU8a
 
-▸ **stringToU8a**(`value?`: undefined | string): *`Uint8Array`*
+▸ **stringToU8a**(`value?`: undefined | string): *Uint8Array*
 
-*Defined in [string/toU8a.ts:39](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/string/toU8a.ts#L39)*
+*Defined in [string/toU8a.ts:39](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/string/toU8a.ts#L39)*
 
 **`name`** stringToU8a
 
@@ -36,4 +36,4 @@ Name | Type |
 ------ | ------ |
 `value?` | undefined \| string |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

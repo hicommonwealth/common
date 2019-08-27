@@ -19,17 +19,17 @@
 
 • **decode**: *function*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/types.ts#L6)*
 
 #### Type declaration:
 
-▸ (`input`: null | `Uint8Array`): *`Uint8Array` | null | null | `Uint8Array` | null | `Uint8Array`[][]*
+▸ (`input`: null | Uint8Array): *Uint8Array | null | null | Uint8Array | null | Uint8Array[][]*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`input` | null \| `Uint8Array` |
+`input` | null \| Uint8Array |
 
 ___
 
@@ -37,17 +37,17 @@ ___
 
 • **encode**: *function*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/types.ts#L7)*
 
 #### Type declaration:
 
-▸ (`input?`: null | `Uint8Array` | null | `Uint8Array`[]): *`Uint8Array`*
+▸ (`input?`: null | Uint8Array | null | Uint8Array[]): *Uint8Array*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`input?` | null \| `Uint8Array` \| null \| `Uint8Array`[] |
+`input?` | null \| Uint8Array \| null \| Uint8Array[] |
 
 ___
 
@@ -55,17 +55,17 @@ ___
 
 • **hashing**: *function*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/types.ts#L8)*
 
 #### Type declaration:
 
-▸ (`input`: `Uint8Array`): *`Uint8Array`*
+▸ (`input`: Uint8Array): *Uint8Array*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`input` | `Uint8Array` |
+`input` | Uint8Array |
 
 ___
 
@@ -73,4 +73,4 @@ ___
 
 • **type**: *string*
 
-*Defined in [types.ts:9](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/types.ts#L9)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/types.ts#L9)*

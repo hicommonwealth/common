@@ -10,9 +10,9 @@
 
 ###  bnToBn
 
-▸ **bnToBn**<**ExtToBn**>(`value?`: `ExtToBn` | `BN` | string | number | null): *`BN`*
+▸ **bnToBn**<**ExtToBn**>(`value?`: ExtToBn | BN | string | number | null): *BN*
 
-*Defined in [bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/bn/toBn.ts#L29)*
+*Defined in [bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/bn/toBn.ts#L29)*
 
 **`name`** bnToBn
 
@@ -40,6 +40,6 @@ bnToBn(new BN(0x1234)); // => BN(0x1234)
 
 Name | Type |
 ------ | ------ |
-`value?` | `ExtToBn` \| `BN` \| string \| number \| null |
+`value?` | ExtToBn \| BN \| string \| number \| null |
 
-**Returns:** *`BN`*
+**Returns:** *BN*

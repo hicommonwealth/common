@@ -30,19 +30,19 @@
 
 ###  constructor
 
-\+ **new Impl**(`db`: `TxDb`, `rootHash?`: `Uint8Array`, `codec`: `Codec`): *[Impl](_impl_.impl.md)*
+\+ **new Impl**(`db`: TxDb, `rootHash?`: Uint8Array, `codec`: Codec): *[Impl](_impl_.impl.md)*
 
 *Overrides [Checkpoint](_checkpoint_.checkpoint.md).[constructor](_checkpoint_.checkpoint.md#constructor)*
 
-*Defined in [Impl.ts:43](https://github.com/polkadot-js/common/blob/4308722/packages/trie-db/src/Impl.ts#L43)*
+*Defined in [Impl.ts:43](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-db/src/Impl.ts#L43)*
 
 **Parameters:**
 
 Name | Type | Default |
 ------ | ------ | ------ |
-`db` | `TxDb` | - |
-`rootHash?` | `Uint8Array` | - |
-`codec` | `Codec` |  substrateCodec |
+`db` | TxDb | - |
+`rootHash?` | Uint8Array | - |
+`codec` | Codec |  substrateCodec |
 
 **Returns:** *[Impl](_impl_.impl.md)*
 
@@ -50,6 +50,6 @@ Name | Type | Default |
 
 ###  db
 
-• **db**: *`TxDb`*
+• **db**: *TxDb*
 
-*Defined in [Impl.ts:39](https://github.com/polkadot-js/common/blob/4308722/packages/trie-db/src/Impl.ts#L39)*
+*Defined in [Impl.ts:39](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-db/src/Impl.ts#L39)*

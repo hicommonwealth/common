@@ -10,14 +10,14 @@
 
 ###  encode
 
-▸ **encode**(`input?`: null | `Uint8Array` | null | `Uint8Array`[]): *`Uint8Array`*
+▸ **encode**(`input?`: null | Uint8Array | null | Uint8Array[]): *Uint8Array*
 
-*Defined in [encode.ts:75](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/encode.ts#L75)*
+*Defined in [encode.ts:75](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/encode.ts#L75)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`input?` | null \| `Uint8Array` \| null \| `Uint8Array`[] |
+`input?` | null \| Uint8Array \| null \| Uint8Array[] |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

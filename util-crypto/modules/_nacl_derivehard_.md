@@ -10,15 +10,15 @@
 
 ###  deriveHard
 
-▸ **deriveHard**(`seed`: `Uint8Array`, `chainCode`: `Uint8Array`): *`Uint8Array`*
+▸ **deriveHard**(`seed`: Uint8Array, `chainCode`: Uint8Array): *Uint8Array*
 
-*Defined in [nacl/deriveHard.ts:11](https://github.com/polkadot-js/common/blob/4308722/packages/util-crypto/src/nacl/deriveHard.ts#L11)*
+*Defined in [nacl/deriveHard.ts:11](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-crypto/src/nacl/deriveHard.ts#L11)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`seed` | `Uint8Array` |
-`chainCode` | `Uint8Array` |
+`seed` | Uint8Array |
+`chainCode` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

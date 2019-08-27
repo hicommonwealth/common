@@ -10,14 +10,14 @@
 
 ###  schnorrkelKeypairFromU8a
 
-▸ **schnorrkelKeypairFromU8a**(`full`: `Uint8Array`): *[Keypair](../interfaces/_types_.keypair.md)*
+▸ **schnorrkelKeypairFromU8a**(`full`: Uint8Array): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [schnorrkel/keypair/fromU8a.ts:10](https://github.com/polkadot-js/common/blob/4308722/packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts#L10)*
+*Defined in [schnorrkel/keypair/fromU8a.ts:10](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-crypto/src/schnorrkel/keypair/fromU8a.ts#L10)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`full` | `Uint8Array` |
+`full` | Uint8Array |
 
 **Returns:** *[Keypair](../interfaces/_types_.keypair.md)*

@@ -10,15 +10,15 @@
 
 ###  encodeU8a
 
-▸ **encodeU8a**(`encoder`: [EncodeFunc](_encoder_types_.md#encodefunc), `input`: `Uint8Array`): *`Uint8Array`*
+▸ **encodeU8a**(`encoder`: [EncodeFunc](_encoder_types_.md#encodefunc), `input`: Uint8Array): *Uint8Array*
 
-*Defined in [encoder/u8a.ts:11](https://github.com/polkadot-js/common/blob/4308722/packages/util-rlp/src/encoder/u8a.ts#L11)*
+*Defined in [encoder/u8a.ts:11](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-rlp/src/encoder/u8a.ts#L11)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
 `encoder` | [EncodeFunc](_encoder_types_.md#encodefunc) |
-`input` | `Uint8Array` |
+`input` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

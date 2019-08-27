@@ -10,14 +10,14 @@
 
 ###  hash
 
-▸ **hash**(`key`: `Uint8Array`): *`Uint8Array`*
+▸ **hash**(`key`: Uint8Array): *Uint8Array*
 
-*Defined in [address/sshash.ts:11](https://github.com/polkadot-js/common/blob/4308722/packages/util-crypto/src/address/sshash.ts#L11)*
+*Defined in [address/sshash.ts:11](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-crypto/src/address/sshash.ts#L11)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`key` | `Uint8Array` |
+`key` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

@@ -10,9 +10,9 @@
 
 ###  naclDecrypt
 
-▸ **naclDecrypt**(`encrypted`: `Uint8Array`, `nonce`: `Uint8Array`, `secret`: `Uint8Array`): *`Uint8Array` | null*
+▸ **naclDecrypt**(`encrypted`: Uint8Array, `nonce`: Uint8Array, `secret`: Uint8Array): *Uint8Array | null*
 
-*Defined in [nacl/decrypt.ts:21](https://github.com/polkadot-js/common/blob/4308722/packages/util-crypto/src/nacl/decrypt.ts#L21)*
+*Defined in [nacl/decrypt.ts:21](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-crypto/src/nacl/decrypt.ts#L21)*
 
 **`name`** naclDecrypt
 
@@ -34,8 +34,8 @@ naclDecrypt([...], [...], [...]); // => [...]
 
 Name | Type |
 ------ | ------ |
-`encrypted` | `Uint8Array` |
-`nonce` | `Uint8Array` |
-`secret` | `Uint8Array` |
+`encrypted` | Uint8Array |
+`nonce` | Uint8Array |
+`secret` | Uint8Array |
 
-**Returns:** *`Uint8Array` | null*
+**Returns:** *Uint8Array | null*

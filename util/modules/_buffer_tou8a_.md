@@ -10,9 +10,9 @@
 
 ###  bufferToU8a
 
-▸ **bufferToU8a**(`buffer?`: `Buffer` | number[] | null): *`Uint8Array`*
+▸ **bufferToU8a**(`buffer?`: Buffer | number[] | null): *Uint8Array*
 
-*Defined in [buffer/toU8a.ts:19](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/buffer/toU8a.ts#L19)*
+*Defined in [buffer/toU8a.ts:19](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/buffer/toU8a.ts#L19)*
 
 **`name`** bufferToU8a
 
@@ -34,6 +34,6 @@ bufferToU8a(Buffer.from([1, 2, 3]));
 
 Name | Type |
 ------ | ------ |
-`buffer?` | `Buffer` \| number[] \| null |
+`buffer?` | Buffer \| number[] \| null |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

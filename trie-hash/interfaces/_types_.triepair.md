@@ -15,14 +15,14 @@
 
 ###  k
 
-• **k**: *`Uint8Array`*
+• **k**: *Uint8Array*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/4308722/packages/trie-hash/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-hash/src/types.ts#L6)*
 
 ___
 
 ###  v
 
-• **v**: *`Uint8Array`*
+• **v**: *Uint8Array*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/4308722/packages/trie-hash/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-hash/src/types.ts#L7)*

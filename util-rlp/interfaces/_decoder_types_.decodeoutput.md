@@ -15,14 +15,14 @@
 
 ###  decoded
 
-• **decoded**: *`Uint8Array` | `Uint8Array` | `Uint8Array`[][]*
+• **decoded**: *Uint8Array | Uint8Array | Uint8Array[][]*
 
-*Defined in [decoder/types.ts:6](https://github.com/polkadot-js/common/blob/4308722/packages/util-rlp/src/decoder/types.ts#L6)*
+*Defined in [decoder/types.ts:6](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-rlp/src/decoder/types.ts#L6)*
 
 ___
 
 ###  remainder
 
-• **remainder**: *`Uint8Array`*
+• **remainder**: *Uint8Array*
 
-*Defined in [decoder/types.ts:7](https://github.com/polkadot-js/common/blob/4308722/packages/util-rlp/src/decoder/types.ts#L7)*
+*Defined in [decoder/types.ts:7](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-rlp/src/decoder/types.ts#L7)*

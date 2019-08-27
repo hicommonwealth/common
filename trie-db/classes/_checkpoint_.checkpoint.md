@@ -16,14 +16,14 @@
 
 ###  constructor
 
-\+ **new Checkpoint**(`rootHash`: `Uint8Array`): *[Checkpoint](_checkpoint_.checkpoint.md)*
+\+ **new Checkpoint**(`rootHash`: Uint8Array): *[Checkpoint](_checkpoint_.checkpoint.md)*
 
-*Defined in [Checkpoint.ts:8](https://github.com/polkadot-js/common/blob/4308722/packages/trie-db/src/Checkpoint.ts#L8)*
+*Defined in [Checkpoint.ts:8](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-db/src/Checkpoint.ts#L8)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`rootHash` | `Uint8Array` |
+`rootHash` | Uint8Array |
 
 **Returns:** *[Checkpoint](_checkpoint_.checkpoint.md)*

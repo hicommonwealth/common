@@ -38,7 +38,7 @@
 
 • **txCommit**? : *undefined | function*
 
-*Defined in [types.ts:28](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L28)*
+*Defined in [types.ts:28](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L28)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **txRevert**? : *undefined | function*
 
-*Defined in [types.ts:29](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L29)*
+*Defined in [types.ts:29](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L29)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **txStart**? : *undefined | function*
 
-*Defined in [types.ts:30](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L30)*
+*Defined in [types.ts:30](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L30)*
 
 ## Methods
 
@@ -62,7 +62,7 @@ ___
 
 ▸ **close**(): *void*
 
-*Defined in [types.ts:20](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L20)*
+*Defined in [types.ts:20](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L20)*
 
 **Returns:** *void*
 
@@ -70,15 +70,15 @@ ___
 
 ###  del
 
-▸ **del**(`key`: `Uint8Array`): *void*
+▸ **del**(`key`: Uint8Array): *void*
 
-*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L32)*
+*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L32)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`key` | `Uint8Array` |
+`key` | Uint8Array |
 
 **Returns:** *void*
 
@@ -88,7 +88,7 @@ ___
 
 ▸ **drop**(): *void*
 
-*Defined in [types.ts:22](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L22)*
+*Defined in [types.ts:22](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L22)*
 
 **Returns:** *void*
 
@@ -98,7 +98,7 @@ ___
 
 ▸ **empty**(): *void*
 
-*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L23)*
+*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L23)*
 
 **Returns:** *void*
 
@@ -106,17 +106,17 @@ ___
 
 ###  get
 
-▸ **get**(`key`: `Uint8Array`): *`Uint8Array` | null*
+▸ **get**(`key`: Uint8Array): *Uint8Array | null*
 
-*Defined in [types.ts:33](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L33)*
+*Defined in [types.ts:33](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L33)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`key` | `Uint8Array` |
+`key` | Uint8Array |
 
-**Returns:** *`Uint8Array` | null*
+**Returns:** *Uint8Array | null*
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 ▸ **maintain**(`fn`: [ProgressCb](../modules/_types_.md#progresscb)): *void*
 
-*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L24)*
+*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L24)*
 
 **Parameters:**
 
@@ -140,7 +140,7 @@ ___
 
 ▸ **open**(): *void*
 
-*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L21)*
+*Defined in [types.ts:21](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L21)*
 
 **Returns:** *void*
 
@@ -148,16 +148,16 @@ ___
 
 ###  put
 
-▸ **put**(`key`: `Uint8Array`, `value`: `Uint8Array`): *void*
+▸ **put**(`key`: Uint8Array, `value`: Uint8Array): *void*
 
-*Defined in [types.ts:34](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L34)*
+*Defined in [types.ts:34](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L34)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`key` | `Uint8Array` |
-`value` | `Uint8Array` |
+`key` | Uint8Array |
+`value` | Uint8Array |
 
 **Returns:** *void*
 
@@ -167,7 +167,7 @@ ___
 
 ▸ **rename**(`base`: string, `file`: string): *void*
 
-*Defined in [types.ts:25](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L25)*
+*Defined in [types.ts:25](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L25)*
 
 **Parameters:**
 
@@ -184,6 +184,6 @@ ___
 
 ▸ **size**(): *number*
 
-*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/4308722/packages/db/src/types.ts#L26)*
+*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/a8b28a2/packages/db/src/types.ts#L26)*
 
 **Returns:** *number*

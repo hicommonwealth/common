@@ -18,7 +18,7 @@ throw new ExtError('some message', ExtError.CODES.METHOD_NOT_FOUND); // => error
 
 ## Hierarchy
 
-* `Error`
+* Error
 
   * **ExtError**
 
@@ -51,7 +51,7 @@ throw new ExtError('some message', ExtError.CODES.METHOD_NOT_FOUND); // => error
 
 \+ **new ExtError**(`message`: string, `code`: number, `data?`: number | string): *[ExtError](_ext_error_.exterror.md)*
 
-*Defined in [ext/error.ts:46](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L46)*
+*Defined in [ext/error.ts:46](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L46)*
 
 **Parameters:**
 
@@ -71,7 +71,7 @@ Name | Type | Default |
 
 *Implementation of [ExtErrorInterface](../interfaces/_types_.exterrorinterface.md).[code](../interfaces/_types_.exterrorinterface.md#code)*
 
-*Defined in [ext/error.ts:35](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L35)*
+*Defined in [ext/error.ts:35](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L35)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 *Implementation of [ExtErrorInterface](../interfaces/_types_.exterrorinterface.md).[data](../interfaces/_types_.exterrorinterface.md#optional-data)*
 
-*Defined in [ext/error.ts:37](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L37)*
+*Defined in [ext/error.ts:37](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L37)*
 
 ___
 
@@ -93,7 +93,7 @@ ___
 
 *Overrides void*
 
-*Defined in [ext/error.ts:40](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L40)*
+*Defined in [ext/error.ts:40](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L40)*
 
 ___
 
@@ -103,7 +103,7 @@ ___
 
 *Overrides void*
 
-*Defined in [ext/error.ts:43](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L43)*
+*Defined in [ext/error.ts:43](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L43)*
 
 ___
 
@@ -115,13 +115,13 @@ ___
 
 *Overrides void*
 
-*Defined in [ext/error.ts:46](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L46)*
+*Defined in [ext/error.ts:46](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L46)*
 
 ___
 
 ### `Static` Error
 
-▪ **Error**: *`ErrorConstructor`*
+▪ **Error**: *ErrorConstructor*
 
 Defined in /home/travis/build/polkadot-js/common/node_modules/typescript/lib/lib.es5.d.ts:984
 
@@ -131,28 +131,28 @@ Defined in /home/travis/build/polkadot-js/common/node_modules/typescript/lib/lib
 
 ### ▪ **CODES**: *object*
 
-*Defined in [ext/error.ts:63](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L63)*
+*Defined in [ext/error.ts:63](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L63)*
 
 ###  ASSERT
 
 • **ASSERT**: *number* =  -90009
 
-*Defined in [ext/error.ts:64](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L64)*
+*Defined in [ext/error.ts:64](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L64)*
 
 ###  INVALID_JSONRPC
 
 • **INVALID_JSONRPC**: *number* =  -99998
 
-*Defined in [ext/error.ts:66](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L66)*
+*Defined in [ext/error.ts:66](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L66)*
 
 ###  METHOD_NOT_FOUND
 
 • **METHOD_NOT_FOUND**: *number* =  -32601
 
-*Defined in [ext/error.ts:67](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L67)*
+*Defined in [ext/error.ts:67](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L67)*
 
 ###  UNKNOWN
 
 • **UNKNOWN**: *number*
 
-*Defined in [ext/error.ts:65](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/ext/error.ts#L65)*
+*Defined in [ext/error.ts:65](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/ext/error.ts#L65)*

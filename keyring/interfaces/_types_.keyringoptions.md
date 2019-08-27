@@ -15,14 +15,14 @@
 
 ### `Optional` addressPrefix
 
-• **addressPrefix**? : *`Prefix`*
+• **addressPrefix**? : *Prefix*
 
-*Defined in [types.ts:10](https://github.com/polkadot-js/common/blob/4308722/packages/keyring/src/types.ts#L10)*
+*Defined in [types.ts:10](https://github.com/polkadot-js/common/blob/a8b28a2/packages/keyring/src/types.ts#L10)*
 
 ___
 
 ### `Optional` type
 
-• **type**? : *`KeypairType`*
+• **type**? : *KeypairType*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/4308722/packages/keyring/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/a8b28a2/packages/keyring/src/types.ts#L11)*

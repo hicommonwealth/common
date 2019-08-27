@@ -10,15 +10,15 @@
 
 ###  sharedPrefixLength
 
-▸ **sharedPrefixLength**(`first`: `Uint8Array`, `second`: `Uint8Array`): *number*
+▸ **sharedPrefixLength**(`first`: Uint8Array, `second`: Uint8Array): *number*
 
-*Defined in [util/sharedPrefixLength.ts:5](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/util/sharedPrefixLength.ts#L5)*
+*Defined in [util/sharedPrefixLength.ts:5](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/util/sharedPrefixLength.ts#L5)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`first` | `Uint8Array` |
-`second` | `Uint8Array` |
+`first` | Uint8Array |
+`second` | Uint8Array |
 
 **Returns:** *number*

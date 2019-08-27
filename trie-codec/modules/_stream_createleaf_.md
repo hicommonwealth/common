@@ -10,15 +10,15 @@
 
 ###  createLeaf
 
-▸ **createLeaf**(`key`: `Uint8Array`, `value`: `Uint8Array`): *`Uint8Array`*
+▸ **createLeaf**(`key`: Uint8Array, `value`: Uint8Array): *Uint8Array*
 
-*Defined in [stream/createLeaf.ts:10](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/stream/createLeaf.ts#L10)*
+*Defined in [stream/createLeaf.ts:10](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/stream/createLeaf.ts#L10)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`key` | `Uint8Array` |
-`value` | `Uint8Array` |
+`key` | Uint8Array |
+`value` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

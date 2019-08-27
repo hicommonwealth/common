@@ -12,16 +12,16 @@
 
 ###  decodeNode
 
-▸ **decodeNode**(`codec`: `Codec`, `encoded`: `Uint8Array` | [Node](_types_.md#node)): *[Node](_types_.md#node)*
+▸ **decodeNode**(`codec`: Codec, `encoded`: Uint8Array | [Node](_types_.md#node)): *[Node](_types_.md#node)*
 
-*Defined in [util/node.ts:30](https://github.com/polkadot-js/common/blob/4308722/packages/trie-db/src/util/node.ts#L30)*
+*Defined in [util/node.ts:30](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-db/src/util/node.ts#L30)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`codec` | `Codec` |
-`encoded` | `Uint8Array` \| [Node](_types_.md#node) |
+`codec` | Codec |
+`encoded` | Uint8Array \| [Node](_types_.md#node) |
 
 **Returns:** *[Node](_types_.md#node)*
 
@@ -29,18 +29,18 @@ ___
 
 ###  encodeNode
 
-▸ **encodeNode**(`codec`: `Codec`, `node`: [Node](_types_.md#node)): *`Uint8Array`*
+▸ **encodeNode**(`codec`: Codec, `node`: [Node](_types_.md#node)): *Uint8Array*
 
-*Defined in [util/node.ts:46](https://github.com/polkadot-js/common/blob/4308722/packages/trie-db/src/util/node.ts#L46)*
+*Defined in [util/node.ts:46](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-db/src/util/node.ts#L46)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`codec` | `Codec` |
+`codec` | Codec |
 `node` | [Node](_types_.md#node) |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 ▸ **getNodeType**(`node`: [Node](_types_.md#node)): *[NodeType](../enums/_types_.nodetype.md)*
 
-*Defined in [util/node.ts:13](https://github.com/polkadot-js/common/blob/4308722/packages/trie-db/src/util/node.ts#L13)*
+*Defined in [util/node.ts:13](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-db/src/util/node.ts#L13)*
 
 **Parameters:**
 

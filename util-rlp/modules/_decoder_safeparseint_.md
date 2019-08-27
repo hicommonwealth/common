@@ -10,14 +10,14 @@
 
 ###  safeParseInt
 
-▸ **safeParseInt**(`input`: `Uint8Array`): *number*
+▸ **safeParseInt**(`input`: Uint8Array): *number*
 
-*Defined in [decoder/safeParseInt.ts:7](https://github.com/polkadot-js/common/blob/4308722/packages/util-rlp/src/decoder/safeParseInt.ts#L7)*
+*Defined in [decoder/safeParseInt.ts:7](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-rlp/src/decoder/safeParseInt.ts#L7)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`input` | `Uint8Array` |
+`input` | Uint8Array |
 
 **Returns:** *number*

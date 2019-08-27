@@ -16,95 +16,95 @@
 
 ###  addNibblesTerminator
 
-▸ **addNibblesTerminator**(`nibbles`: `Uint8Array`): *`Uint8Array`*
+▸ **addNibblesTerminator**(`nibbles`: Uint8Array): *Uint8Array*
 
-*Defined in [nibbles.ts:19](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/nibbles.ts#L19)*
+*Defined in [nibbles.ts:19](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/nibbles.ts#L19)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`nibbles` | `Uint8Array` |
+`nibbles` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
 ###  decodeNibbles
 
-▸ **decodeNibbles**(`value`: null | `Uint8Array`): *`Uint8Array`*
+▸ **decodeNibbles**(`value`: null | Uint8Array): *Uint8Array*
 
-*Defined in [nibbles.ts:40](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/nibbles.ts#L40)*
+*Defined in [nibbles.ts:40](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/nibbles.ts#L40)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`value` | null \| `Uint8Array` |
+`value` | null \| Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
 ###  encodeNibbles
 
-▸ **encodeNibbles**(`nibbles`: `Uint8Array`): *`Uint8Array`*
+▸ **encodeNibbles**(`nibbles`: Uint8Array): *Uint8Array*
 
-*Defined in [nibbles.ts:53](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/nibbles.ts#L53)*
+*Defined in [nibbles.ts:53](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/nibbles.ts#L53)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`nibbles` | `Uint8Array` |
+`nibbles` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
 ###  extractKey
 
-▸ **extractKey**(`key`: null | `Uint8Array`): *`Uint8Array`*
+▸ **extractKey**(`key`: null | Uint8Array): *Uint8Array*
 
-*Defined in [nibbles.ts:69](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/nibbles.ts#L69)*
+*Defined in [nibbles.ts:69](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/nibbles.ts#L69)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`key` | null \| `Uint8Array` |
+`key` | null \| Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
 ###  extractNodeKey
 
-▸ **extractNodeKey**(`__namedParameters`: [null | `Uint8Array`]): *`Uint8Array`*
+▸ **extractNodeKey**(`__namedParameters`: [null | Uint8Array]): *Uint8Array*
 
-*Defined in [nibbles.ts:75](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/nibbles.ts#L75)*
+*Defined in [nibbles.ts:75](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/nibbles.ts#L75)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`__namedParameters` | [null \| `Uint8Array`] |
+`__namedParameters` | [null \| Uint8Array] |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
 
 ___
 
 ###  isNibblesTerminated
 
-▸ **isNibblesTerminated**(`nibbles`: `Uint8Array`): *boolean*
+▸ **isNibblesTerminated**(`nibbles`: Uint8Array): *boolean*
 
-*Defined in [nibbles.ts:15](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/nibbles.ts#L15)*
+*Defined in [nibbles.ts:15](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/nibbles.ts#L15)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`nibbles` | `Uint8Array` |
+`nibbles` | Uint8Array |
 
 **Returns:** *boolean*
 
@@ -112,14 +112,14 @@ ___
 
 ###  removeNibblesTerminator
 
-▸ **removeNibblesTerminator**(`nibbles`: `Uint8Array`): *`Uint8Array`*
+▸ **removeNibblesTerminator**(`nibbles`: Uint8Array): *Uint8Array*
 
-*Defined in [nibbles.ts:32](https://github.com/polkadot-js/common/blob/4308722/packages/trie-codec/src/nibbles.ts#L32)*
+*Defined in [nibbles.ts:32](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-codec/src/nibbles.ts#L32)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`nibbles` | `Uint8Array` |
+`nibbles` | Uint8Array |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

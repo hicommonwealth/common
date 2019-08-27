@@ -10,9 +10,9 @@
 
 ###  isIp
 
-▸ **isIp**(`value`: string, `type?`: `IpTypes`): *boolean*
+▸ **isIp**(`value`: string, `type?`: IpTypes): *boolean*
 
-*Defined in [is/ip.ts:26](https://github.com/polkadot-js/common/blob/4308722/packages/util/src/is/ip.ts#L26)*
+*Defined in [is/ip.ts:26](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/is/ip.ts#L26)*
 
 **`name`** isIp
 
@@ -38,6 +38,6 @@ isIp('1:2:3:4:5:6:7:8', 'v4'); // => false
 Name | Type |
 ------ | ------ |
 `value` | string |
-`type?` | `IpTypes` |
+`type?` | IpTypes |
 
 **Returns:** *boolean*

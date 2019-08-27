@@ -10,9 +10,9 @@
 
 ###  schnorrkelKeypairToU8a
 
-▸ **schnorrkelKeypairToU8a**(`__namedParameters`: object): *`Uint8Array`*
+▸ **schnorrkelKeypairToU8a**(`__namedParameters`: object): *Uint8Array*
 
-*Defined in [schnorrkel/keypair/toU8a.ts:9](https://github.com/polkadot-js/common/blob/4308722/packages/util-crypto/src/schnorrkel/keypair/toU8a.ts#L9)*
+*Defined in [schnorrkel/keypair/toU8a.ts:9](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-crypto/src/schnorrkel/keypair/toU8a.ts#L9)*
 
 **Parameters:**
 
@@ -20,4 +20,4 @@ Name | Type |
 ------ | ------ |
 `__namedParameters` | object |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*

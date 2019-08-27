@@ -15,14 +15,14 @@
 
 ###  publicKey
 
-• **publicKey**: *`Uint8Array`*
+• **publicKey**: *Uint8Array*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/4308722/packages/util-crypto/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-crypto/src/types.ts#L6)*
 
 ___
 
 ###  secretKey
 
-• **secretKey**: *`Uint8Array`*
+• **secretKey**: *Uint8Array*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/4308722/packages/util-crypto/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-crypto/src/types.ts#L7)*

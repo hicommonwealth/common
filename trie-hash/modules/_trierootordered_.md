@@ -10,9 +10,9 @@
 
 ###  trieRootOrdered
 
-▸ **trieRootOrdered**(`input`: `Uint8Array`[], `codec`: `Codec`): *`Uint8Array`*
+▸ **trieRootOrdered**(`input`: Uint8Array[], `codec`: Codec): *Uint8Array*
 
-*Defined in [trieRootOrdered.ts:31](https://github.com/polkadot-js/common/blob/4308722/packages/trie-hash/src/trieRootOrdered.ts#L31)*
+*Defined in [trieRootOrdered.ts:31](https://github.com/polkadot-js/common/blob/a8b28a2/packages/trie-hash/src/trieRootOrdered.ts#L31)*
 
 **`name`** trieRootOrdered
 
@@ -38,7 +38,7 @@ trieRootOrdered([
 
 Name | Type | Default |
 ------ | ------ | ------ |
-`input` | `Uint8Array`[] | - |
-`codec` | `Codec` |  DEFAULT_CODEC |
+`input` | Uint8Array[] | - |
+`codec` | Codec |  DEFAULT_CODEC |
 
-**Returns:** *`Uint8Array`*
+**Returns:** *Uint8Array*
