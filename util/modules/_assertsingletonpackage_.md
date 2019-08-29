@@ -12,7 +12,7 @@
 
 ▸ **assertSingletonPackage**(`name`: string): *void*
 
-*Defined in [assertSingletonPackage.ts:18](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util/src/assertSingletonPackage.ts#L18)*
+*Defined in [assertSingletonPackage.ts:21](https://github.com/polkadot-js/common/blob/ef38591/packages/util/src/assertSingletonPackage.ts#L21)*
 
 **`name`** assertSingletonPackage
 

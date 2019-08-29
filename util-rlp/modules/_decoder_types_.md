@@ -16,7 +16,7 @@
 
 Ƭ **DecodeFunc**: *function*
 
-*Defined in [decoder/types.ts:10](https://github.com/polkadot-js/common/blob/a8b28a2/packages/util-rlp/src/decoder/types.ts#L10)*
+*Defined in [decoder/types.ts:10](https://github.com/polkadot-js/common/blob/ef38591/packages/util-rlp/src/decoder/types.ts#L10)*
 
 #### Type declaration:
 
