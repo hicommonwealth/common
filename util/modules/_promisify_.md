@@ -2,10 +2,6 @@
 
 ## Index
 
-### Interfaces
-
-* [PromisifyFn](../interfaces/_promisify_.promisifyfn.md)
-
 ### Functions
 
 * [promisify](_promisify_.md#promisify)
@@ -14,9 +10,9 @@
 
 ###  promisify
 
-▸ **promisify**(`self`: any, `fn`: [PromisifyFn](../interfaces/_promisify_.promisifyfn.md), ...`params`: ParamType): *Promise‹any›*
+▸ **promisify**(`self`: any, `fn`: Function, ...`params`: any[]): *Promise‹any›*
 
-*Defined in [promisify.ts:35](https://github.com/polkadot-js/common/blob/ef38591/packages/util/src/promisify.ts#L35)*
+*Defined in [promisify.ts:22](https://github.com/polkadot-js/common/blob/25fc033/packages/util/src/promisify.ts#L22)*
 
 **`name`** promisify
 
@@ -40,7 +36,7 @@ await promisify(null, (cb) => cb(new Error('error!'))); // rejects with `error!`
 Name | Type |
 ------ | ------ |
 `self` | any |
-`fn` | [PromisifyFn](../interfaces/_promisify_.promisifyfn.md) |
-`...params` | ParamType |
+`fn` | Function |
+`...params` | any[] |
 
 **Returns:** *Promise‹any›*

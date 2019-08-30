@@ -12,7 +12,7 @@
 
 ▸ **toU8a**(`value?`: any): *Uint8Array*
 
-*Defined in [encoder/toU8a.ts:43](https://github.com/polkadot-js/common/blob/ef38591/packages/util-rlp/src/encoder/toU8a.ts#L43)*
+*Defined in [encoder/toU8a.ts:43](https://github.com/polkadot-js/common/blob/25fc033/packages/util-rlp/src/encoder/toU8a.ts#L43)*
 
 **Parameters:**
 
