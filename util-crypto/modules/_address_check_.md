@@ -12,7 +12,7 @@
 
 ▸ **check**(`address`: string, `prefix`: [Prefix](_address_types_.md#prefix)): *[boolean, string | null]*
 
-*Defined in [address/check.ts:12](https://github.com/polkadot-js/common/blob/22e76c1/packages/util-crypto/src/address/check.ts#L12)*
+*Defined in [address/check.ts:12](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/address/check.ts#L12)*
 
 **Parameters:**
 

@@ -12,7 +12,7 @@
 
 ▸ **decodeListLong**(`decode`: [DecodeFunc](_decoder_types_.md#decodefunc), `input`: Uint8Array): *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*
 
-*Defined in [decoder/listLong.ts:11](https://github.com/polkadot-js/common/blob/22e76c1/packages/util-rlp/src/decoder/listLong.ts#L11)*
+*Defined in [decoder/listLong.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-rlp/src/decoder/listLong.ts#L11)*
 
 **Parameters:**
 

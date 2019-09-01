@@ -15,7 +15,7 @@
 
 • **BRANCH**: = 3
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/22e76c1/packages/trie-db/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/types.ts#L11)*
 
 ___
 
@@ -23,7 +23,7 @@ ___
 
 • **EMPTY**: = 0
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/22e76c1/packages/trie-db/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/types.ts#L8)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **EXTENSION**: = 2
 
-*Defined in [types.ts:10](https://github.com/polkadot-js/common/blob/22e76c1/packages/trie-db/src/types.ts#L10)*
+*Defined in [types.ts:10](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/types.ts#L10)*
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 • **LEAF**: = 1
 
-*Defined in [types.ts:9](https://github.com/polkadot-js/common/blob/22e76c1/packages/trie-db/src/types.ts#L9)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/types.ts#L9)*

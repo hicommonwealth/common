@@ -12,7 +12,7 @@
 
 ▸ **isFunction**(`value`: any): *boolean*
 
-*Defined in [is/function.ts:20](https://github.com/polkadot-js/common/blob/22e76c1/packages/util/src/is/function.ts#L20)*
+*Defined in [is/function.ts:20](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/function.ts#L20)*
 
 **`name`** isFunction
 
