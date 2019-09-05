@@ -1,4 +1,8 @@
-> # Interface: SiDef
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["format/si"](../modules/_format_si_.md) › [SiDef](_format_si_.sidef.md)
+
+# Interface: SiDef
 
 ## Hierarchy
 
@@ -18,7 +22,7 @@
 
 • **power**: *number*
 
-*Defined in [format/si.ts:6](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/format/si.ts#L6)*
+*Defined in [format/si.ts:6](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/format/si.ts#L6)*
 
 ___
 
@@ -26,7 +30,7 @@ ___
 
 • **text**: *string*
 
-*Defined in [format/si.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/format/si.ts#L7)*
+*Defined in [format/si.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/format/si.ts#L7)*
 
 ___
 
@@ -34,4 +38,4 @@ ___
 
 • **value**: *string*
 
-*Defined in [format/si.ts:8](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/format/si.ts#L8)*
+*Defined in [format/si.ts:8](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/format/si.ts#L8)*

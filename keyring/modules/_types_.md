@@ -1,4 +1,8 @@
-> # External module: "types"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](_types_.md)
+
+# External module: "types"
 
 ## Index
 
@@ -22,4 +26,4 @@
 
 Ƭ **KeyringPair$JsonVersion**: *"0" | "1" | "2"*
 
-*Defined in [types.ts:19](https://github.com/polkadot-js/common/blob/9a4938b/packages/keyring/src/types.ts#L19)*
+*Defined in [types.ts:19](https://github.com/polkadot-js/common/blob/a1c2f03/packages/keyring/src/types.ts#L19)*

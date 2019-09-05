@@ -1,4 +1,8 @@
-> # External module: "mnemonic/toSeed"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["mnemonic/toSeed"](_mnemonic_toseed_.md)
+
+# External module: "mnemonic/toSeed"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **toSeed**(`mnemonic`: string, `password`: string): *Uint8Array*
 
-*Defined in [mnemonic/toSeed.ts:26](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/mnemonic/toSeed.ts#L26)*
+*Defined in [mnemonic/toSeed.ts:26](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/mnemonic/toSeed.ts#L26)*
 
 **`name`** toSeed
 

@@ -1,4 +1,8 @@
-> # External module: "keccak/asHex"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["keccak/asHex"](_keccak_ashex_.md)
+
+# External module: "keccak/asHex"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **keccakAsHex**(`value`: Buffer | Uint8Array | string): *string*
 
-*Defined in [keccak/asHex.ts:23](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/keccak/asHex.ts#L23)*
+*Defined in [keccak/asHex.ts:23](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/keccak/asHex.ts#L23)*
 
 **`name`** keccakAsHex
 

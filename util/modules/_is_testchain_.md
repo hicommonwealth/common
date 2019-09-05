@@ -1,4 +1,8 @@
-> # External module: "is/testChain"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/testChain"](_is_testchain_.md)
+
+# External module: "is/testChain"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isTestChain**(`chain?`: string | null): *boolean*
 
-*Defined in [is/testChain.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/testChain.ts#L7)*
+*Defined in [is/testChain.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/testChain.ts#L7)*
 
 **Parameters:**
 

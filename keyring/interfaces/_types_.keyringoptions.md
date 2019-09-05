@@ -1,4 +1,8 @@
-> # Interface: KeyringOptions
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [KeyringOptions](_types_.keyringoptions.md)
+
+# Interface: KeyringOptions
 
 ## Hierarchy
 
@@ -17,7 +21,7 @@
 
 • **addressPrefix**? : *Prefix*
 
-*Defined in [types.ts:10](https://github.com/polkadot-js/common/blob/9a4938b/packages/keyring/src/types.ts#L10)*
+*Defined in [types.ts:10](https://github.com/polkadot-js/common/blob/a1c2f03/packages/keyring/src/types.ts#L10)*
 
 ___
 
@@ -25,4 +29,4 @@ ___
 
 • **type**? : *KeypairType*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/keyring/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/a1c2f03/packages/keyring/src/types.ts#L11)*

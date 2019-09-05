@@ -1,4 +1,8 @@
-> # External module: "stream/createSubstream"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["stream/createSubstream"](_stream_createsubstream_.md)
+
+# External module: "stream/createSubstream"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **createSubstream**(`value`: Uint8Array): *Uint8Array*
 
-*Defined in [stream/createSubstream.ts:8](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-codec/src/stream/createSubstream.ts#L8)*
+*Defined in [stream/createSubstream.ts:8](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-codec/src/stream/createSubstream.ts#L8)*
 
 **Parameters:**
 

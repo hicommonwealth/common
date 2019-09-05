@@ -1,4 +1,8 @@
-> # External module: "is/instanceOf"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/instanceOf"](_is_instanceof_.md)
+
+# External module: "is/instanceOf"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isInstanceOf**(`value`: any, `clazz`: any): *boolean*
 
-*Defined in [is/instanceOf.ts:20](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/instanceOf.ts#L20)*
+*Defined in [is/instanceOf.ts:20](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/instanceOf.ts#L20)*
 
 **`name`** isInstanceOf
 

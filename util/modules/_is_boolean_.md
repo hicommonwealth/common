@@ -1,4 +1,8 @@
-> # External module: "is/boolean"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/boolean"](_is_boolean_.md)
+
+# External module: "is/boolean"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isBoolean**(`value`: any): *boolean*
 
-*Defined in [is/boolean.ts:20](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/boolean.ts#L20)*
+*Defined in [is/boolean.ts:20](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/boolean.ts#L20)*
 
 **`name`** isBoolean
 

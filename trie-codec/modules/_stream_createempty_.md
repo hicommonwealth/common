@@ -1,4 +1,8 @@
-> # External module: "stream/createEmpty"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["stream/createEmpty"](_stream_createempty_.md)
+
+# External module: "stream/createEmpty"
 
 ## Index
 
@@ -12,6 +16,6 @@
 
 ▸ **createEmpty**(): *Uint8Array*
 
-*Defined in [stream/createEmpty.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-codec/src/stream/createEmpty.ts#L7)*
+*Defined in [stream/createEmpty.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-codec/src/stream/createEmpty.ts#L7)*
 
 **Returns:** *Uint8Array*

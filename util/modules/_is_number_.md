@@ -1,4 +1,8 @@
-> # External module: "is/number"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/number"](_is_number_.md)
+
+# External module: "is/number"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isNumber**(`value`: any): *boolean*
 
-*Defined in [is/number.ts:20](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/number.ts#L20)*
+*Defined in [is/number.ts:20](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/number.ts#L20)*
 
 **`name`** isNumber
 

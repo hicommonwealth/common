@@ -1,4 +1,8 @@
-> # External module: "address/setPrefix"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["address/setPrefix"](_address_setprefix_.md)
+
+# External module: "address/setPrefix"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **setPrefix**(`prefix`: [Prefix](_address_types_.md#prefix)): *void*
 
-*Defined in [address/setPrefix.ts:9](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/address/setPrefix.ts#L9)*
+*Defined in [address/setPrefix.ts:9](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/address/setPrefix.ts#L9)*
 
 **Parameters:**
 

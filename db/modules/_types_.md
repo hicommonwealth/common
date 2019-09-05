@@ -1,4 +1,8 @@
-> # External module: "types"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](_types_.md)
+
+# External module: "types"
 
 ## Index
 
@@ -19,7 +23,7 @@
 
 Ƭ **ProgressCb**: *function*
 
-*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/types.ts#L11)*
+*Defined in [types.ts:11](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/types.ts#L11)*
 
 #### Type declaration:
 

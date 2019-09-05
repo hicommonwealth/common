@@ -1,4 +1,8 @@
-> # External module: "xxhash/asU8a"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["xxhash/asU8a"](_xxhash_asu8a_.md)
+
+# External module: "xxhash/asU8a"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **xxhashAsU8a**(`data`: Buffer | Uint8Array | string, `bitLength`: number): *Uint8Array*
 
-*Defined in [xxhash/asU8a.ts:24](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/xxhash/asU8a.ts#L24)*
+*Defined in [xxhash/asU8a.ts:24](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/xxhash/asU8a.ts#L24)*
 
 **`name`** xxhashAsU8a
 

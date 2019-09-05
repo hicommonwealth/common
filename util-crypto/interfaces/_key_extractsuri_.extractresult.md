@@ -1,4 +1,8 @@
-> # Interface: ExtractResult
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["key/extractSuri"](../modules/_key_extractsuri_.md) › [ExtractResult](_key_extractsuri_.extractresult.md)
+
+# Interface: ExtractResult
 
 ## Hierarchy
 
@@ -18,7 +22,7 @@
 
 • **password**? : *undefined | string*
 
-*Defined in [key/extractSuri.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/key/extractSuri.ts#L11)*
+*Defined in [key/extractSuri.ts:11](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/key/extractSuri.ts#L11)*
 
 ___
 
@@ -26,7 +30,7 @@ ___
 
 • **path**: *[DeriveJunction](../classes/_key_derivejunction_.derivejunction.md)[]*
 
-*Defined in [key/extractSuri.ts:12](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/key/extractSuri.ts#L12)*
+*Defined in [key/extractSuri.ts:12](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/key/extractSuri.ts#L12)*
 
 ___
 
@@ -34,4 +38,4 @@ ___
 
 • **phrase**: *string*
 
-*Defined in [key/extractSuri.ts:13](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/key/extractSuri.ts#L13)*
+*Defined in [key/extractSuri.ts:13](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/key/extractSuri.ts#L13)*

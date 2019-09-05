@@ -1,4 +1,8 @@
-> # External module: "engines/LruDb"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["engines/LruDb"](_engines_lrudb_.md)
+
+# External module: "engines/LruDb"
 
 ## Index
 

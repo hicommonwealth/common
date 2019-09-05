@@ -1,4 +1,8 @@
-> # External module: "sha512/asU8a"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["sha512/asU8a"](_sha512_asu8a_.md)
+
+# External module: "sha512/asU8a"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **sha512AsU8a**(`data`: Uint8Array): *Uint8Array*
 
-*Defined in [sha512/asU8a.ts:22](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/sha512/asU8a.ts#L22)*
+*Defined in [sha512/asU8a.ts:22](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/sha512/asU8a.ts#L22)*
 
 **`name`** sha512AsU8a
 

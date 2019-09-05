@@ -1,4 +1,8 @@
-> # External module: "is/u8a"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/u8a"](_is_u8a_.md)
+
+# External module: "is/u8a"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isU8a**(`value?`: any): *boolean*
 
-*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/u8a.ts#L22)*
+*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/u8a.ts#L22)*
 
 **`name`** isU8a
 

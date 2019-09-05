@@ -1,4 +1,8 @@
-> # External module: "is/hex"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/hex"](_is_hex_.md)
+
+# External module: "is/hex"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isHex**(`value`: any, `bitLength`: number, `ignoreLength`: boolean): *boolean*
 
-*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/hex.ts#L25)*
+*Defined in [is/hex.ts:25](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/hex.ts#L25)*
 
 **`name`** isHex
 

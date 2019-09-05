@@ -1,4 +1,8 @@
-> # External module: "format/formatElapsed"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["format/formatElapsed"](_format_formatelapsed_.md)
+
+# External module: "format/formatElapsed"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **formatElapsed**<**ExtToBn**>(`now?`: Date | null, `value?`: BN | ExtToBn | Date | number | null): *string*
 
-*Defined in [format/formatElapsed.ts:25](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/format/formatElapsed.ts#L25)*
+*Defined in [format/formatElapsed.ts:25](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/format/formatElapsed.ts#L25)*
 
 **Type parameters:**
 

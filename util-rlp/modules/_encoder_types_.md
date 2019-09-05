@@ -1,4 +1,8 @@
-> # External module: "encoder/types"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["encoder/types"](_encoder_types_.md)
+
+# External module: "encoder/types"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 Ƭ **EncodeFunc**: *function*
 
-*Defined in [encoder/types.ts:6](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-rlp/src/encoder/types.ts#L6)*
+*Defined in [encoder/types.ts:6](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-rlp/src/encoder/types.ts#L6)*
 
 #### Type declaration:
 

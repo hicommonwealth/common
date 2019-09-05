@@ -1,4 +1,8 @@
-> # External module: "random/asU8a"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["random/asU8a"](_random_asu8a_.md)
+
+# External module: "random/asU8a"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **randomAsU8a**(`length`: number): *Uint8Array*
 
-*Defined in [random/asU8a.ts:21](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/random/asU8a.ts#L21)*
+*Defined in [random/asU8a.ts:21](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/random/asU8a.ts#L21)*
 
 **`name`** randomAsU8a
 

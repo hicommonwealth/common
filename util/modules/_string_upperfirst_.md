@@ -1,4 +1,8 @@
-> # External module: "string/upperFirst"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["string/upperFirst"](_string_upperfirst_.md)
+
+# External module: "string/upperFirst"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **stringUpperFirst**(`value?`: string | null): *string*
 
-*Defined in [string/upperFirst.ts:19](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/string/upperFirst.ts#L19)*
+*Defined in [string/upperFirst.ts:19](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/string/upperFirst.ts#L19)*
 
 **`name`** stringUpperFirst
 

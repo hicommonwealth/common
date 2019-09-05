@@ -1,3 +1,7 @@
+**[Polkadot JS Common](README.md)**
+
+[Globals](globals.md)
+
 # @polkadot/trie-hash
 
 Calculate ordered and unordered [Trie hashes](https://github.com/ethereum/wiki/wiki/Patricia-Tree) from inputs.

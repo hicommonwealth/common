@@ -1,4 +1,8 @@
-> # External module: "schnorrkel/deriveSoft"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["schnorrkel/deriveSoft"](_schnorrkel_derivesoft_.md)
+
+# External module: "schnorrkel/deriveSoft"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **deriveSoft**(`keypair`: [Keypair](../interfaces/_types_.keypair.md), `chainCode`: Uint8Array): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [schnorrkel/deriveSoft.ts:14](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/schnorrkel/deriveSoft.ts#L14)*
+*Defined in [schnorrkel/deriveSoft.ts:14](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/schnorrkel/deriveSoft.ts#L14)*
 
 **Parameters:**
 

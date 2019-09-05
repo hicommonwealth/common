@@ -1,4 +1,8 @@
-> # Interface: ToBnOptions
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [ToBnOptions](_types_.tobnoptions.md)
+
+# Interface: ToBnOptions
 
 ## Hierarchy
 
@@ -17,7 +21,7 @@
 
 • **isLe**? : *undefined | false | true*
 
-*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/types.ts#L32)*
+*Defined in [types.ts:32](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/types.ts#L32)*
 
 ___
 
@@ -25,4 +29,4 @@ ___
 
 • **isNegative**? : *undefined | false | true*
 
-*Defined in [types.ts:33](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/types.ts#L33)*
+*Defined in [types.ts:33](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/types.ts#L33)*

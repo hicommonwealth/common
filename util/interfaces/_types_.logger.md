@@ -1,4 +1,8 @@
-> # Interface: Logger
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [Logger](_types_.logger.md)
+
+# Interface: Logger
 
 ## Hierarchy
 
@@ -20,7 +24,7 @@
 
 • **debug**: *function*
 
-*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/types.ts#L24)*
+*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/types.ts#L24)*
 
 #### Type declaration:
 
@@ -38,7 +42,7 @@ ___
 
 • **error**: *function*
 
-*Defined in [types.ts:25](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/types.ts#L25)*
+*Defined in [types.ts:25](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/types.ts#L25)*
 
 #### Type declaration:
 
@@ -56,7 +60,7 @@ ___
 
 • **log**: *function*
 
-*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/types.ts#L26)*
+*Defined in [types.ts:26](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/types.ts#L26)*
 
 #### Type declaration:
 
@@ -74,7 +78,7 @@ ___
 
 • **noop**: *function*
 
-*Defined in [types.ts:27](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/types.ts#L27)*
+*Defined in [types.ts:27](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/types.ts#L27)*
 
 #### Type declaration:
 
@@ -92,7 +96,7 @@ ___
 
 • **warn**: *function*
 
-*Defined in [types.ts:28](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/types.ts#L28)*
+*Defined in [types.ts:28](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/types.ts#L28)*
 
 #### Type declaration:
 

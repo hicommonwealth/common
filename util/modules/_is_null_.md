@@ -1,4 +1,8 @@
-> # External module: "is/null"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/null"](_is_null_.md)
+
+# External module: "is/null"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isNull**(`value?`: any): *boolean*
 
-*Defined in [is/null.ts:20](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/null.ts#L20)*
+*Defined in [is/null.ts:20](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/null.ts#L20)*
 
 **`name`** isNull
 

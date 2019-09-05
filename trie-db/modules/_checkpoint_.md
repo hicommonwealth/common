@@ -1,4 +1,8 @@
-> # External module: "Checkpoint"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["Checkpoint"](_checkpoint_.md)
+
+# External module: "Checkpoint"
 
 ## Index
 

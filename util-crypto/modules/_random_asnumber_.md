@@ -1,4 +1,8 @@
-> # External module: "random/asNumber"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["random/asNumber"](_random_asnumber_.md)
+
+# External module: "random/asNumber"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **randomAsNumber**(): *number*
 
-*Defined in [random/asNumber.ts:26](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/random/asNumber.ts#L26)*
+*Defined in [random/asNumber.ts:26](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/random/asNumber.ts#L26)*
 
 **`name`** randomAsNumber
 

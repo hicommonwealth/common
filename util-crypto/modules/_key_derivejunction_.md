@@ -1,4 +1,8 @@
-> # External module: "key/DeriveJunction"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["key/DeriveJunction"](_key_derivejunction_.md)
+
+# External module: "key/DeriveJunction"
 
 ## Index
 

@@ -1,4 +1,8 @@
-> # External module: "promisify"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["promisify"](_promisify_.md)
+
+# External module: "promisify"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **promisify**(`self`: any, `fn`: Function, ...`params`: any[]): *Promise‹any›*
 
-*Defined in [promisify.ts:22](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/promisify.ts#L22)*
+*Defined in [promisify.ts:22](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/promisify.ts#L22)*
 
 **`name`** promisify
 

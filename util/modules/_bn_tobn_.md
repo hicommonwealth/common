@@ -1,4 +1,8 @@
-> # External module: "bn/toBn"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["bn/toBn"](_bn_tobn_.md)
+
+# External module: "bn/toBn"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **bnToBn**<**ExtToBn**>(`value?`: ExtToBn | BN | string | number | null): *BN*
 
-*Defined in [bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/bn/toBn.ts#L29)*
+*Defined in [bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/bn/toBn.ts#L29)*
 
 **`name`** bnToBn
 

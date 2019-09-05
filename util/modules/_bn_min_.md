@@ -1,4 +1,8 @@
-> # External module: "bn/min"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["bn/min"](_bn_min_.md)
+
+# External module: "bn/min"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **min**(...`items`: BN[]): *BN*
 
-*Defined in [bn/min.ts:22](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/bn/min.ts#L22)*
+*Defined in [bn/min.ts:22](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/bn/min.ts#L22)*
 
 **`name`** min
 

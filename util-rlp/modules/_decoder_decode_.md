@@ -1,4 +1,8 @@
-> # External module: "decoder/decode"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["decoder/decode"](_decoder_decode_.md)
+
+# External module: "decoder/decode"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **decode**(`input`: Uint8Array): *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*
 
-*Defined in [decoder/decode.ts:28](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-rlp/src/decoder/decode.ts#L28)*
+*Defined in [decoder/decode.ts:28](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-rlp/src/decoder/decode.ts#L28)*
 
 **Parameters:**
 

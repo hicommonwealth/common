@@ -1,4 +1,8 @@
-> # Class: TransactionDb
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["engines/TransactionDb"](../modules/_engines_transactiondb_.md) › [TransactionDb](_engines_transactiondb_.transactiondb.md)
+
+# Class: TransactionDb
 
 ## Hierarchy
 
@@ -36,7 +40,7 @@
 
 \+ **new TransactionDb**(`backing`: [BaseDb](../interfaces/_types_.basedb.md)): *[TransactionDb](_engines_transactiondb_.transactiondb.md)*
 
-*Defined in [engines/TransactionDb.ts:21](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L21)*
+*Defined in [engines/TransactionDb.ts:21](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L21)*
 
 **Parameters:**
 
@@ -54,7 +58,7 @@ Name | Type |
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:50](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L50)*
+*Defined in [engines/TransactionDb.ts:50](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L50)*
 
 **Returns:** *void*
 
@@ -66,7 +70,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:80](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L80)*
+*Defined in [engines/TransactionDb.ts:80](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L80)*
 
 **Parameters:**
 
@@ -84,7 +88,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:58](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L58)*
+*Defined in [engines/TransactionDb.ts:58](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L58)*
 
 **Returns:** *void*
 
@@ -96,7 +100,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:62](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L62)*
+*Defined in [engines/TransactionDb.ts:62](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L62)*
 
 **Returns:** *void*
 
@@ -108,7 +112,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:89](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L89)*
+*Defined in [engines/TransactionDb.ts:89](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L89)*
 
 **Parameters:**
 
@@ -126,7 +130,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:70](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L70)*
+*Defined in [engines/TransactionDb.ts:70](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L70)*
 
 **Parameters:**
 
@@ -144,7 +148,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:54](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L54)*
+*Defined in [engines/TransactionDb.ts:54](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L54)*
 
 **Returns:** *void*
 
@@ -156,7 +160,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:103](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L103)*
+*Defined in [engines/TransactionDb.ts:103](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L103)*
 
 **Parameters:**
 
@@ -175,7 +179,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:66](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L66)*
+*Defined in [engines/TransactionDb.ts:66](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L66)*
 
 **Parameters:**
 
@@ -194,7 +198,7 @@ ___
 
 *Implementation of [TxDb](../interfaces/_types_.txdb.md)*
 
-*Defined in [engines/TransactionDb.ts:76](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L76)*
+*Defined in [engines/TransactionDb.ts:76](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L76)*
 
 **Returns:** *number*
 
@@ -204,7 +208,7 @@ ___
 
 ▸ **transaction**<**T**>(`fn`: function): *T*
 
-*Defined in [engines/TransactionDb.ts:28](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/TransactionDb.ts#L28)*
+*Defined in [engines/TransactionDb.ts:28](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/TransactionDb.ts#L28)*
 
 **Type parameters:**
 

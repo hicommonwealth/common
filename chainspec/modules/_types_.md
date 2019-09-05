@@ -1,4 +1,8 @@
-> # External module: "types"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](_types_.md)
+
+# External module: "types"
 
 ## Index
 
@@ -16,4 +20,4 @@
 
 Ƭ **Telemetry**: *[string, number]*
 
-*Defined in [types.ts:5](https://github.com/polkadot-js/common/blob/9a4938b/packages/chainspec/src/types.ts#L5)*
+*Defined in [types.ts:5](https://github.com/polkadot-js/common/blob/a1c2f03/packages/chainspec/src/types.ts#L5)*

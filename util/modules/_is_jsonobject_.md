@@ -1,4 +1,8 @@
-> # External module: "is/jsonObject"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/jsonObject"](_is_jsonobject_.md)
+
+# External module: "is/jsonObject"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isJsonObject**(`value`: any): *boolean*
 
-*Defined in [is/jsonObject.ts:36](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/jsonObject.ts#L36)*
+*Defined in [is/jsonObject.ts:36](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/jsonObject.ts#L36)*
 
 **`name`** isJsonObject
 

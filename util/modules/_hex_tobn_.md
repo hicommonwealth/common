@@ -1,4 +1,8 @@
-> # External module: "hex/toBn"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["hex/toBn"](_hex_tobn_.md)
+
+# External module: "hex/toBn"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **hexToBn**(`value?`: string | number | null, `options`: [ToBnOptions](../interfaces/_types_.tobnoptions.md) | boolean): *BN*
 
-*Defined in [hex/toBn.ts:35](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/hex/toBn.ts#L35)*
+*Defined in [hex/toBn.ts:35](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/hex/toBn.ts#L35)*
 
 **`name`** hexToBn
 

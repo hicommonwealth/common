@@ -1,4 +1,8 @@
-> # External module: "constants"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["constants"](_constants_.md)
+
+# External module: "constants"
 
 ## Index
 
@@ -16,7 +20,7 @@
 
 ▸ **default**(`codec`: Codec): *[Constants](../interfaces/_constants_.constants.md)*
 
-*Defined in [constants.ts:14](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/constants.ts#L14)*
+*Defined in [constants.ts:14](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-db/src/constants.ts#L14)*
 
 **Parameters:**
 

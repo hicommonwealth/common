@@ -1,4 +1,8 @@
-> # External module: "compact/types"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["compact/types"](_compact_types_.md)
+
+# External module: "compact/types"
 
 ## Index
 
@@ -12,4 +16,4 @@
 
 Ƭ **BitLength**: *8 | 16 | 32 | 64 | 128 | 256*
 
-*Defined in [compact/types.ts:5](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/compact/types.ts#L5)*
+*Defined in [compact/types.ts:5](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/compact/types.ts#L5)*

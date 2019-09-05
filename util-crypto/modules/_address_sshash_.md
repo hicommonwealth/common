@@ -1,4 +1,8 @@
-> # External module: "address/sshash"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["address/sshash"](_address_sshash_.md)
+
+# External module: "address/sshash"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **hash**(`key`: Uint8Array): *Uint8Array*
 
-*Defined in [address/sshash.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/address/sshash.ts#L11)*
+*Defined in [address/sshash.ts:11](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/address/sshash.ts#L11)*
 
 **Parameters:**
 

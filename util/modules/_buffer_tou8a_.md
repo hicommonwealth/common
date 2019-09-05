@@ -1,4 +1,8 @@
-> # External module: "buffer/toU8a"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["buffer/toU8a"](_buffer_tou8a_.md)
+
+# External module: "buffer/toU8a"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **bufferToU8a**(`buffer?`: Buffer | number[] | null): *Uint8Array*
 
-*Defined in [buffer/toU8a.ts:19](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/buffer/toU8a.ts#L19)*
+*Defined in [buffer/toU8a.ts:19](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/buffer/toU8a.ts#L19)*
 
 **`name`** bufferToU8a
 

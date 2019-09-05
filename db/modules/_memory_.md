@@ -1,4 +1,8 @@
-> # External module: "Memory"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["Memory"](_memory_.md)
+
+# External module: "Memory"
 
 ## Index
 

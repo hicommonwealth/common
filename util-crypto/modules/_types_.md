@@ -1,4 +1,8 @@
-> # External module: "types"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](_types_.md)
+
+# External module: "types"
 
 ## Index
 
@@ -17,4 +21,4 @@
 
 Ƭ **KeypairType**: *"ed25519" | "sr25519"*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/types.ts#L15)*
+*Defined in [types.ts:15](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/types.ts#L15)*

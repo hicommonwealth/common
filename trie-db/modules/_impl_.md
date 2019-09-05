@@ -1,4 +1,8 @@
-> # External module: "Impl"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["Impl"](_impl_.md)
+
+# External module: "Impl"
 
 ## Index
 

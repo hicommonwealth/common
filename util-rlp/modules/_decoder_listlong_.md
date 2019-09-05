@@ -1,4 +1,8 @@
-> # External module: "decoder/listLong"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["decoder/listLong"](_decoder_listlong_.md)
+
+# External module: "decoder/listLong"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **decodeListLong**(`decode`: [DecodeFunc](_decoder_types_.md#decodefunc), `input`: Uint8Array): *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*
 
-*Defined in [decoder/listLong.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-rlp/src/decoder/listLong.ts#L11)*
+*Defined in [decoder/listLong.ts:11](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-rlp/src/decoder/listLong.ts#L11)*
 
 **Parameters:**
 

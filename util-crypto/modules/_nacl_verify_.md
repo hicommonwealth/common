@@ -1,4 +1,8 @@
-> # External module: "nacl/verify"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["nacl/verify"](_nacl_verify_.md)
+
+# External module: "nacl/verify"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **naclVerify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `publicKey`: Uint8Array | string): *boolean*
 
-*Defined in [nacl/verify.ts:23](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/nacl/verify.ts#L23)*
+*Defined in [nacl/verify.ts:23](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/nacl/verify.ts#L23)*
 
 **`name`** naclSign
 

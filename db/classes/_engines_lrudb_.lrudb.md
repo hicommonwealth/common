@@ -1,4 +1,8 @@
-> # Class: LruDb
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["engines/LruDb"](../modules/_engines_lrudb_.md) › [LruDb](_engines_lrudb_.lrudb.md)
+
+# Class: LruDb
 
 ## Hierarchy
 
@@ -37,7 +41,7 @@
 
 \+ **new LruDb**(`backing`: [BaseDb](../interfaces/_types_.basedb.md), `itemCount`: number): *[LruDb](_engines_lrudb_.lrudb.md)*
 
-*Defined in [engines/LruDb.ts:21](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L21)*
+*Defined in [engines/LruDb.ts:21](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L21)*
 
 **Parameters:**
 
@@ -54,7 +58,7 @@ Name | Type | Default |
 
 ▸ **_getLru**(`key`: Uint8Array): *CachedValue | undefined*
 
-*Defined in [engines/LruDb.ts:88](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L88)*
+*Defined in [engines/LruDb.ts:88](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L88)*
 
 **Parameters:**
 
@@ -72,7 +76,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:28](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L28)*
+*Defined in [engines/LruDb.ts:28](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L28)*
 
 **Returns:** *void*
 
@@ -84,7 +88,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:65](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L65)*
+*Defined in [engines/LruDb.ts:65](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L65)*
 
 **Parameters:**
 
@@ -102,7 +106,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:42](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L42)*
+*Defined in [engines/LruDb.ts:42](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L42)*
 
 **Returns:** *void*
 
@@ -114,7 +118,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:46](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L46)*
+*Defined in [engines/LruDb.ts:46](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L46)*
 
 **Returns:** *void*
 
@@ -126,7 +130,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:72](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L72)*
+*Defined in [engines/LruDb.ts:72](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L72)*
 
 **Parameters:**
 
@@ -144,7 +148,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:57](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L57)*
+*Defined in [engines/LruDb.ts:57](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L57)*
 
 **Parameters:**
 
@@ -162,7 +166,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:35](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L35)*
+*Defined in [engines/LruDb.ts:35](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L35)*
 
 **Returns:** *void*
 
@@ -174,7 +178,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:92](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L92)*
+*Defined in [engines/LruDb.ts:92](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L92)*
 
 **Parameters:**
 
@@ -193,7 +197,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:53](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L53)*
+*Defined in [engines/LruDb.ts:53](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L53)*
 
 **Parameters:**
 
@@ -212,7 +216,7 @@ ___
 
 *Implementation of [BaseDb](../interfaces/_types_.basedb.md)*
 
-*Defined in [engines/LruDb.ts:61](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L61)*
+*Defined in [engines/LruDb.ts:61](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L61)*
 
 **Returns:** *number*
 
@@ -222,7 +226,7 @@ ___
 
 ▸ **txCommit**(): *void*
 
-*Defined in [engines/LruDb.ts:99](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L99)*
+*Defined in [engines/LruDb.ts:99](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L99)*
 
 **Returns:** *void*
 
@@ -232,7 +236,7 @@ ___
 
 ▸ **txRevert**(): *void*
 
-*Defined in [engines/LruDb.ts:105](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L105)*
+*Defined in [engines/LruDb.ts:105](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L105)*
 
 **Returns:** *void*
 
@@ -242,6 +246,6 @@ ___
 
 ▸ **txStart**(): *void*
 
-*Defined in [engines/LruDb.ts:111](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/engines/LruDb.ts#L111)*
+*Defined in [engines/LruDb.ts:111](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/engines/LruDb.ts#L111)*
 
 **Returns:** *void*

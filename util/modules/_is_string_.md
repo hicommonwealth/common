@@ -1,4 +1,8 @@
-> # External module: "is/string"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/string"](_is_string_.md)
+
+# External module: "is/string"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isString**(`value`: any): *boolean*
 
-*Defined in [is/string.ts:20](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/string.ts#L20)*
+*Defined in [is/string.ts:20](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/string.ts#L20)*
 
 **`name`** isString
 

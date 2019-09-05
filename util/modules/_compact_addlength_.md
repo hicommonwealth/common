@@ -1,4 +1,8 @@
-> # External module: "compact/addLength"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["compact/addLength"](_compact_addlength_.md)
+
+# External module: "compact/addLength"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **compactAddLength**(`input`: Uint8Array): *Uint8Array*
 
-*Defined in [compact/addLength.ts:20](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/compact/addLength.ts#L20)*
+*Defined in [compact/addLength.ts:20](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/compact/addLength.ts#L20)*
 
 **`name`** compactAddLength
 

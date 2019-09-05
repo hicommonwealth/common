@@ -1,4 +1,8 @@
-> # External module: "decoder/single"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["decoder/single"](_decoder_single_.md)
+
+# External module: "decoder/single"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **decodeSingle**(`decode`: [DecodeFunc](_decoder_types_.md#decodefunc), `input`: Uint8Array): *[DecodeOutput](../interfaces/_decoder_types_.decodeoutput.md)*
 
-*Defined in [decoder/single.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-rlp/src/decoder/single.ts#L7)*
+*Defined in [decoder/single.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-rlp/src/decoder/single.ts#L7)*
 
 **Parameters:**
 

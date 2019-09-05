@@ -1,4 +1,8 @@
-> # External module: "nacl/decrypt"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["nacl/decrypt"](_nacl_decrypt_.md)
+
+# External module: "nacl/decrypt"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **naclDecrypt**(`encrypted`: Uint8Array, `nonce`: Uint8Array, `secret`: Uint8Array): *Uint8Array | null*
 
-*Defined in [nacl/decrypt.ts:21](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/nacl/decrypt.ts#L21)*
+*Defined in [nacl/decrypt.ts:21](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/nacl/decrypt.ts#L21)*
 
 **`name`** naclDecrypt
 

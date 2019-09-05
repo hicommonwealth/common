@@ -1,4 +1,8 @@
-> # External module: "nacl/keypair/fromSeed"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["nacl/keypair/fromSeed"](_nacl_keypair_fromseed_.md)
+
+# External module: "nacl/keypair/fromSeed"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **naclKeypairFromSeed**(`seed`: Uint8Array): *[Keypair](../interfaces/_types_.keypair.md)*
 
-*Defined in [nacl/keypair/fromSeed.ts:24](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/nacl/keypair/fromSeed.ts#L24)*
+*Defined in [nacl/keypair/fromSeed.ts:24](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/nacl/keypair/fromSeed.ts#L24)*
 
 **`name`** naclKeypairFromSeed
 

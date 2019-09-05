@@ -1,4 +1,8 @@
-> # External module: "decoder/types"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["decoder/types"](_decoder_types_.md)
+
+# External module: "decoder/types"
 
 ## Index
 
@@ -16,7 +20,7 @@
 
 Ƭ **DecodeFunc**: *function*
 
-*Defined in [decoder/types.ts:10](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-rlp/src/decoder/types.ts#L10)*
+*Defined in [decoder/types.ts:10](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-rlp/src/decoder/types.ts#L10)*
 
 #### Type declaration:
 

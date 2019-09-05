@@ -1,4 +1,8 @@
-> # External module: "hex/toU8a"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["hex/toU8a"](_hex_tou8a_.md)
+
+# External module: "hex/toU8a"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **hexToU8a**(`_value?`: string | null, `bitLength`: number): *Uint8Array*
 
-*Defined in [hex/toU8a.ts:24](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/hex/toU8a.ts#L24)*
+*Defined in [hex/toU8a.ts:24](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/hex/toU8a.ts#L24)*
 
 **`name`** hexToU8a
 

@@ -1,4 +1,8 @@
-> # External module: "stream/endBranch"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["stream/endBranch"](_stream_endbranch_.md)
+
+# External module: "stream/endBranch"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **encBranch**(`value`: Uint8Array | null): *Uint8Array*
 
-*Defined in [stream/endBranch.ts:8](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-codec/src/stream/endBranch.ts#L8)*
+*Defined in [stream/endBranch.ts:8](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-codec/src/stream/endBranch.ts#L8)*
 
 **Parameters:**
 

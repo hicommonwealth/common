@@ -1,4 +1,8 @@
-> # External module: "util/fromNibbles"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["util/fromNibbles"](_util_fromnibbles_.md)
+
+# External module: "util/fromNibbles"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **fromNibbles**(`input`: Uint8Array): *Uint8Array*
 
-*Defined in [util/fromNibbles.ts:19](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-codec/src/util/fromNibbles.ts#L19)*
+*Defined in [util/fromNibbles.ts:19](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-codec/src/util/fromNibbles.ts#L19)*
 
 **`name`** fromNibbles
 

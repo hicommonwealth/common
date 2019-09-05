@@ -1,4 +1,8 @@
-> # External module: "schnorrkel/verify"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["schnorrkel/verify"](_schnorrkel_verify_.md)
+
+# External module: "schnorrkel/verify"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **schnorrkelVerify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `publicKey`: Uint8Array | string): *boolean*
 
-*Defined in [schnorrkel/verify.ts:14](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/schnorrkel/verify.ts#L14)*
+*Defined in [schnorrkel/verify.ts:14](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/schnorrkel/verify.ts#L14)*
 
 **`name`** schnorrkelVerify
 

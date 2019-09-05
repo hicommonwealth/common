@@ -1,4 +1,8 @@
-> # External module: "is/toBn"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/toBn"](_is_tobn_.md)
+
+# External module: "is/toBn"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isToBn**(`value?`: any): *boolean*
 
-*Defined in [is/toBn.ts:10](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/toBn.ts#L10)*
+*Defined in [is/toBn.ts:10](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/toBn.ts#L10)*
 
 **Parameters:**
 

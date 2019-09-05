@@ -1,4 +1,8 @@
-> # Interface: KeyringPair$JsonEncoding
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [KeyringPair$JsonEncoding](_types_.keyringpair_jsonencoding.md)
+
+# Interface: KeyringPair$JsonEncoding
 
 ## Hierarchy
 
@@ -18,7 +22,7 @@
 
 • **content**: *["pkcs8", KeypairType]*
 
-*Defined in [types.ts:22](https://github.com/polkadot-js/common/blob/9a4938b/packages/keyring/src/types.ts#L22)*
+*Defined in [types.ts:22](https://github.com/polkadot-js/common/blob/a1c2f03/packages/keyring/src/types.ts#L22)*
 
 ___
 
@@ -26,7 +30,7 @@ ___
 
 • **type**: *"xsalsa20-poly1305" | "none"*
 
-*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/9a4938b/packages/keyring/src/types.ts#L23)*
+*Defined in [types.ts:23](https://github.com/polkadot-js/common/blob/a1c2f03/packages/keyring/src/types.ts#L23)*
 
 ___
 
@@ -34,4 +38,4 @@ ___
 
 • **version**: *[KeyringPair$JsonVersion](../modules/_types_.md#keyringpair$jsonversion)*
 
-*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/9a4938b/packages/keyring/src/types.ts#L24)*
+*Defined in [types.ts:24](https://github.com/polkadot-js/common/blob/a1c2f03/packages/keyring/src/types.ts#L24)*

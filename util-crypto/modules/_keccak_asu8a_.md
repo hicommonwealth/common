@@ -1,4 +1,8 @@
-> # External module: "keccak/asU8a"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["keccak/asU8a"](_keccak_asu8a_.md)
+
+# External module: "keccak/asU8a"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **keccakAsU8a**(`value`: Buffer | Uint8Array | string): *Uint8Array*
 
-*Defined in [keccak/asU8a.ts:23](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/keccak/asU8a.ts#L23)*
+*Defined in [keccak/asU8a.ts:23](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/keccak/asU8a.ts#L23)*
 
 **`name`** keccakAsU8a
 

@@ -1,4 +1,8 @@
-> # External module: "mnemonic/toEntropy"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["mnemonic/toEntropy"](_mnemonic_toentropy_.md)
+
+# External module: "mnemonic/toEntropy"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **toEntropy**(`mnemonic`: string): *Uint8Array*
 
-*Defined in [mnemonic/toEntropy.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/mnemonic/toEntropy.ts#L11)*
+*Defined in [mnemonic/toEntropy.ts:11](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/mnemonic/toEntropy.ts#L11)*
 
 **Parameters:**
 

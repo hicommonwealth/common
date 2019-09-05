@@ -1,4 +1,8 @@
-> # Interface: TriePair
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [TriePair](_types_.triepair.md)
+
+# Interface: TriePair
 
 ## Hierarchy
 
@@ -17,7 +21,7 @@
 
 • **k**: *Uint8Array*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-hash/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-hash/src/types.ts#L6)*
 
 ___
 
@@ -25,4 +29,4 @@ ___
 
 • **v**: *Uint8Array*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-hash/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-hash/src/types.ts#L7)*

@@ -1,4 +1,8 @@
-> # External module: "pair/decode"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["pair/decode"](_pair_decode_.md)
+
+# External module: "pair/decode"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **decode**(`passphrase?`: undefined | string, `_encrypted?`: Uint8Array | null): *DecodeResult*
 
-*Defined in [pair/decode.ts:17](https://github.com/polkadot-js/common/blob/9a4938b/packages/keyring/src/pair/decode.ts#L17)*
+*Defined in [pair/decode.ts:17](https://github.com/polkadot-js/common/blob/a1c2f03/packages/keyring/src/pair/decode.ts#L17)*
 
 **Parameters:**
 

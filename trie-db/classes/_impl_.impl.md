@@ -1,4 +1,8 @@
-> # Class: Impl
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["Impl"](../modules/_impl_.md) › [Impl](_impl_.impl.md)
+
+# Class: Impl
 
 # @polkadot/trie-db
 
@@ -34,7 +38,7 @@
 
 *Overrides [Checkpoint](_checkpoint_.checkpoint.md).[constructor](_checkpoint_.checkpoint.md#constructor)*
 
-*Defined in [Impl.ts:43](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/Impl.ts#L43)*
+*Defined in [Impl.ts:43](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-db/src/Impl.ts#L43)*
 
 **Parameters:**
 
@@ -52,4 +56,4 @@ Name | Type | Default |
 
 • **db**: *TxDb*
 
-*Defined in [Impl.ts:39](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/Impl.ts#L39)*
+*Defined in [Impl.ts:39](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-db/src/Impl.ts#L39)*

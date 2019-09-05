@@ -1,4 +1,8 @@
-> # External module: "assertSingletonPackage"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["assertSingletonPackage"](_assertsingletonpackage_.md)
+
+# External module: "assertSingletonPackage"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **assertSingletonPackage**(`name`: string): *void*
 
-*Defined in [assertSingletonPackage.ts:21](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/assertSingletonPackage.ts#L21)*
+*Defined in [assertSingletonPackage.ts:21](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/assertSingletonPackage.ts#L21)*
 
 **`name`** assertSingletonPackage
 

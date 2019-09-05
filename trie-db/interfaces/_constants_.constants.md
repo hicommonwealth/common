@@ -1,4 +1,8 @@
-> # Interface: Constants
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["constants"](../modules/_constants_.md) › [Constants](_constants_.constants.md)
+
+# Interface: Constants
 
 ## Hierarchy
 
@@ -19,7 +23,7 @@
 
 • **EMPTY_HASH**: *Uint8Array*
 
-*Defined in [constants.ts:11](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/constants.ts#L11)*
+*Defined in [constants.ts:11](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-db/src/constants.ts#L11)*
 
 ___
 
@@ -27,7 +31,7 @@ ___
 
 • **EMPTY_HASH_STR**: *string*
 
-*Defined in [constants.ts:12](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/constants.ts#L12)*
+*Defined in [constants.ts:12](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-db/src/constants.ts#L12)*
 
 ___
 
@@ -35,7 +39,7 @@ ___
 
 • **EMPTY_NODE**: *Uint8Array*
 
-*Defined in [constants.ts:10](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/constants.ts#L10)*
+*Defined in [constants.ts:10](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-db/src/constants.ts#L10)*
 
 ___
 
@@ -43,4 +47,4 @@ ___
 
 • **EMPTY_U8A**: *Uint8Array*
 
-*Defined in [constants.ts:13](https://github.com/polkadot-js/common/blob/9a4938b/packages/trie-db/src/constants.ts#L13)*
+*Defined in [constants.ts:13](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-db/src/constants.ts#L13)*

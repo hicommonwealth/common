@@ -1,4 +1,8 @@
-> # Polkadot JS Common
+**[Polkadot JS Common](README.md)**
+
+[Globals](globals.md)
+
+# Polkadot JS Common
 
 ## Index
 

@@ -1,4 +1,8 @@
-> # Interface: ProgressValue
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [ProgressValue](_types_.progressvalue.md)
+
+# Interface: ProgressValue
 
 ## Hierarchy
 
@@ -18,7 +22,7 @@
 
 • **isCompleted**? : *undefined | false | true*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/types.ts#L6)*
 
 ___
 
@@ -26,7 +30,7 @@ ___
 
 • **keys**: *number*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/types.ts#L7)*
 
 ___
 
@@ -34,4 +38,4 @@ ___
 
 • **percent**: *number*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/9a4938b/packages/db/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/a1c2f03/packages/db/src/types.ts#L8)*

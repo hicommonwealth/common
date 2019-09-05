@@ -1,4 +1,8 @@
-> # Interface: Keypair
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["types"](../modules/_types_.md) › [Keypair](_types_.keypair.md)
+
+# Interface: Keypair
 
 ## Hierarchy
 
@@ -17,7 +21,7 @@
 
 • **publicKey**: *Uint8Array*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/types.ts#L6)*
 
 ___
 
@@ -25,4 +29,4 @@ ___
 
 • **secretKey**: *Uint8Array*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/types.ts#L7)*

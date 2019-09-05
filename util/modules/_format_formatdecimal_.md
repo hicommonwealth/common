@@ -1,4 +1,8 @@
-> # External module: "format/formatDecimal"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["format/formatDecimal"](_format_formatdecimal_.md)
+
+# External module: "format/formatDecimal"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **formatDecimal**(`value`: string): *string*
 
-*Defined in [format/formatDecimal.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/format/formatDecimal.ts#L7)*
+*Defined in [format/formatDecimal.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/format/formatDecimal.ts#L7)*
 
 **Parameters:**
 

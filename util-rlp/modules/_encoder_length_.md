@@ -1,4 +1,8 @@
-> # External module: "encoder/length"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["encoder/length"](_encoder_length_.md)
+
+# External module: "encoder/length"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **encodeLength**(`length`: number, `offset`: number): *Uint8Array*
 
-*Defined in [encoder/length.ts:7](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-rlp/src/encoder/length.ts#L7)*
+*Defined in [encoder/length.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-rlp/src/encoder/length.ts#L7)*
 
 **Parameters:**
 

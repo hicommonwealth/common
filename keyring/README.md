@@ -1,3 +1,7 @@
+**[Polkadot JS Common](README.md)**
+
+[Globals](globals.md)
+
 # @polkadot/keyring
 
 Key management of user accounts including generation and retrieval of keyring pairs from a variety of input combinations.

@@ -1,4 +1,8 @@
-> # External module: "ext/error"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["ext/error"](_ext_error_.md)
+
+# External module: "ext/error"
 
 ## Index
 

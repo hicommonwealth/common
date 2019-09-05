@@ -1,4 +1,8 @@
-> # External module: "string/shorten"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["string/shorten"](_string_shorten_.md)
+
+# External module: "string/shorten"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **stringShorten**(`_value?`: any, `prefixLength`: number): *string*
 
-*Defined in [string/shorten.ts:20](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/string/shorten.ts#L20)*
+*Defined in [string/shorten.ts:20](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/string/shorten.ts#L20)*
 
 **`name`** stringShorten
 

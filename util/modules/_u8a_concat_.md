@@ -1,4 +1,8 @@
-> # External module: "u8a/concat"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["u8a/concat"](_u8a_concat_.md)
+
+# External module: "u8a/concat"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **u8aConcat**(...`_list`: string | Uint8Array[]): *Uint8Array*
 
-*Defined in [u8a/concat.ts:24](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/u8a/concat.ts#L24)*
+*Defined in [u8a/concat.ts:24](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/u8a/concat.ts#L24)*
 
 **`name`** u8aConcat
 

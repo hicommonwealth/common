@@ -1,4 +1,8 @@
-> # External module: "is/buffer"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["is/buffer"](_is_buffer_.md)
+
+# External module: "is/buffer"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **isBuffer**(`value`: any): *boolean*
 
-*Defined in [is/buffer.ts:22](https://github.com/polkadot-js/common/blob/9a4938b/packages/util/src/is/buffer.ts#L22)*
+*Defined in [is/buffer.ts:22](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/buffer.ts#L22)*
 
 **`name`** isBuffer
 

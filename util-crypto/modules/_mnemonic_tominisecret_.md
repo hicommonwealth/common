@@ -1,4 +1,8 @@
-> # External module: "mnemonic/toMiniSecret"
+**[Polkadot JS Common](../README.md)**
+
+[Globals](../globals.md) › ["mnemonic/toMiniSecret"](_mnemonic_tominisecret_.md)
+
+# External module: "mnemonic/toMiniSecret"
 
 ## Index
 
@@ -12,7 +16,7 @@
 
 ▸ **toMiniSecret**(`mnemonic`: string, `password`: string): *Uint8Array*
 
-*Defined in [mnemonic/toMiniSecret.ts:13](https://github.com/polkadot-js/common/blob/9a4938b/packages/util-crypto/src/mnemonic/toMiniSecret.ts#L13)*
+*Defined in [mnemonic/toMiniSecret.ts:13](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/mnemonic/toMiniSecret.ts#L13)*
 
 **Parameters:**
 
