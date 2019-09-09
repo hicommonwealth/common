@@ -16,7 +16,7 @@
 
 ▸ **isU8a**(`value?`: any): *boolean*
 
-*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/is/u8a.ts#L22)*
+*Defined in [is/u8a.ts:22](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/is/u8a.ts#L22)*
 
 **`name`** isU8a
 

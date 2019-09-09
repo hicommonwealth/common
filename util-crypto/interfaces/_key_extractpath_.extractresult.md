@@ -21,7 +21,7 @@
 
 • **parts**: *null | string[]*
 
-*Defined in [key/extractPath.ts:11](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/key/extractPath.ts#L11)*
+*Defined in [key/extractPath.ts:11](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util-crypto/src/key/extractPath.ts#L11)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • **path**: *[DeriveJunction](../classes/_key_derivejunction_.derivejunction.md)[]*
 
-*Defined in [key/extractPath.ts:12](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/key/extractPath.ts#L12)*
+*Defined in [key/extractPath.ts:12](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util-crypto/src/key/extractPath.ts#L12)*

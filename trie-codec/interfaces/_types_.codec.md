@@ -23,7 +23,7 @@
 
 • **decode**: *function*
 
-*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-codec/src/types.ts#L6)*
+*Defined in [types.ts:6](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/trie-codec/src/types.ts#L6)*
 
 #### Type declaration:
 
@@ -41,7 +41,7 @@ ___
 
 • **encode**: *function*
 
-*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-codec/src/types.ts#L7)*
+*Defined in [types.ts:7](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/trie-codec/src/types.ts#L7)*
 
 #### Type declaration:
 
@@ -59,7 +59,7 @@ ___
 
 • **hashing**: *function*
 
-*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-codec/src/types.ts#L8)*
+*Defined in [types.ts:8](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/trie-codec/src/types.ts#L8)*
 
 #### Type declaration:
 
@@ -77,4 +77,4 @@ ___
 
 • **type**: *string*
 
-*Defined in [types.ts:9](https://github.com/polkadot-js/common/blob/a1c2f03/packages/trie-codec/src/types.ts#L9)*
+*Defined in [types.ts:9](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/trie-codec/src/types.ts#L9)*

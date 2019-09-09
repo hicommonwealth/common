@@ -16,7 +16,7 @@
 
 ▸ **compactToU8a**(`_value`: BN | number): *Uint8Array*
 
-*Defined in [compact/toU8a.ts:27](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/compact/toU8a.ts#L27)*
+*Defined in [compact/toU8a.ts:27](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/compact/toU8a.ts#L27)*
 
 **`name`** compactToU8a
 

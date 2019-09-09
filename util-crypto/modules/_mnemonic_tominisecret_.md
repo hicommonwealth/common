@@ -16,7 +16,7 @@
 
 ▸ **toMiniSecret**(`mnemonic`: string, `password`: string): *Uint8Array*
 
-*Defined in [mnemonic/toMiniSecret.ts:13](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/mnemonic/toMiniSecret.ts#L13)*
+*Defined in [mnemonic/toMiniSecret.ts:13](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util-crypto/src/mnemonic/toMiniSecret.ts#L13)*
 
 **Parameters:**
 

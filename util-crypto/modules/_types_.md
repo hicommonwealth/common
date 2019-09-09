@@ -21,4 +21,4 @@
 
 Ƭ **KeypairType**: *"ed25519" | "sr25519"*
 
-*Defined in [types.ts:15](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/types.ts#L15)*
+*Defined in [types.ts:15](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util-crypto/src/types.ts#L15)*

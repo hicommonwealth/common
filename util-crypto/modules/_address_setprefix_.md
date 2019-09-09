@@ -16,7 +16,7 @@
 
 ▸ **setPrefix**(`prefix`: [Prefix](_address_types_.md#prefix)): *void*
 
-*Defined in [address/setPrefix.ts:9](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util-crypto/src/address/setPrefix.ts#L9)*
+*Defined in [address/setPrefix.ts:9](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util-crypto/src/address/setPrefix.ts#L9)*
 
 **Parameters:**
 

@@ -55,7 +55,7 @@ throw new ExtError('some message', ExtError.CODES.METHOD_NOT_FOUND); // => error
 
 \+ **new ExtError**(`message`: string, `code`: number, `data?`: number | string): *[ExtError](_ext_error_.exterror.md)*
 
-*Defined in [ext/error.ts:42](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L42)*
+*Defined in [ext/error.ts:42](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L42)*
 
 **Parameters:**
 
@@ -75,7 +75,7 @@ Name | Type | Default |
 
 *Implementation of [ExtErrorInterface](../interfaces/_types_.exterrorinterface.md).[code](../interfaces/_types_.exterrorinterface.md#code)*
 
-*Defined in [ext/error.ts:34](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L34)*
+*Defined in [ext/error.ts:34](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L34)*
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 *Implementation of [ExtErrorInterface](../interfaces/_types_.exterrorinterface.md).[data](../interfaces/_types_.exterrorinterface.md#optional-data)*
 
-*Defined in [ext/error.ts:36](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L36)*
+*Defined in [ext/error.ts:36](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L36)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 *Overrides void*
 
-*Defined in [ext/error.ts:38](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L38)*
+*Defined in [ext/error.ts:38](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L38)*
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 *Overrides void*
 
-*Defined in [ext/error.ts:40](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L40)*
+*Defined in [ext/error.ts:40](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L40)*
 
 ___
 
@@ -119,7 +119,7 @@ ___
 
 *Overrides void*
 
-*Defined in [ext/error.ts:42](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L42)*
+*Defined in [ext/error.ts:42](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L42)*
 
 ___
 
@@ -135,28 +135,28 @@ Defined in /home/travis/build/polkadot-js/common/node_modules/typescript/lib/lib
 
 ### ▪ **CODES**: *object*
 
-*Defined in [ext/error.ts:67](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L67)*
+*Defined in [ext/error.ts:67](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L67)*
 
 ###  ASSERT
 
 • **ASSERT**: *number* =  -90009
 
-*Defined in [ext/error.ts:68](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L68)*
+*Defined in [ext/error.ts:68](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L68)*
 
 ###  INVALID_JSONRPC
 
 • **INVALID_JSONRPC**: *number* =  -99998
 
-*Defined in [ext/error.ts:70](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L70)*
+*Defined in [ext/error.ts:70](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L70)*
 
 ###  METHOD_NOT_FOUND
 
 • **METHOD_NOT_FOUND**: *number* =  -32601
 
-*Defined in [ext/error.ts:71](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L71)*
+*Defined in [ext/error.ts:71](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L71)*
 
 ###  UNKNOWN
 
 • **UNKNOWN**: *number*
 
-*Defined in [ext/error.ts:69](https://github.com/polkadot-js/common/blob/a1c2f03/packages/util/src/ext/error.ts#L69)*
+*Defined in [ext/error.ts:69](https://github.com/polkadot-js/common/blob/e2ec7d0/packages/util/src/ext/error.ts#L69)*
